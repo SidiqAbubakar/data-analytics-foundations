@@ -1,0 +1,1215 @@
+OrderID,OrderDate,CustomerID,CustomerName,Region,ProductID,Product,Category,Quantity,UnitPrice_GHS,SalesPerson
+O00001,2026-03-14,C0131,Kojo Tetteh,Ashanti,P011,Office Chair,Furniture,1,1236.01,Felix
+O00002,2025-08-16,C0157,Efua Appiah,Western,P019,Ethernet Switch,Networking,1,682.34,Cynthia
+O00003,2025-05-31,C0009,Adwoa Tetteh,Ashanti,P010,Mini PC,Computers,1,4505.84,David
+O00004,2026-08-02,C0138,Joseph Darko,Greater Accra,P006,24-inch Monitor,Displays,2,1453.73,Cynthia
+O00005,2026-03-17,C0114,Efua Adjei,Central,P003,USB-C Hub,Accessories,1,200.47,David
+O00006,2026-04-30,C0155,Daniel Addo,Ashanti,P014,Headset,Audio,1,310.92,Gifty
+O00007,2026-02-10,C0108,Kofi Boateng,Greater Accra,P001,Wireless Mouse,Accessories,2,95.13,Gifty
+O00008,2026-08-17,C0058,Adwoa Adjei,Eastern,P017,Flash Drive 128GB,Storage,3,154.97,Gifty
+O00009,2025-06-12,C0005,Daniel Addo,Northern,P003,USB-C Hub,Accessories,1,202.23,Bernard
+O00010,2026-05-06,C0063,Efua Agyeman,Greater Accra,P001,Wireless Mouse,Accessories,1,95.5,Esther
+O00011,2025-04-20,C0026,Michael Boateng,Greater Accra,P008,Office Laptop,Computers,2,5828.85,Akua
+O00012,2025-02-20,C0177,Efua Agyeman,Ashanti,P013,Desk Lamp,Furniture,5,187.53,Felix
+O00013,2025-06-12,C0061,Kojo Adjei,Greater Accra,P007,27-inch Monitor,Displays,3,2370.42,David
+O00014,2026-06-25,C0081,Samuel Osei,Central,P009,Performance Laptop,Computers,1,10054.54,Cynthia
+O00015,2025-02-03,C0063,Efua Agyeman,Greater Accra,P009,Performance Laptop,Computers,1,10503.03,Henry
+O00016,2025-11-29,C0137,Grace Osei,Ashanti,P006,24-inch Monitor,Displays,1,1521.11,Cynthia
+O00017,2025-10-07,C0088,Kofi Owusu,Ashanti,P014,Headset,Audio,2,345.14,David
+O00018,2025-10-24,C0149,Samuel Appiah,Western,P017,Flash Drive 128GB,Storage,2,151.86,Akua
+O00019,2026-05-14,C0123, AKOSUA AGYEMAN ,Central,P017,Flash Drive 128GB,Storage,5,139.38,Gifty
+O00020,2026-07-11,C0088,Kofi Owusu,Ashanti,P013,Desk Lamp,Furniture,,186.51,Bernard
+O00021,2026-07-04,C0020,Abena Darko,Ashanti,P017,Flash Drive 128GB,Storage,5,144.71,David
+O00022,2026-03-26,C0017,Priscilla Tetteh,Greater Accra,P018,Wi-Fi Router,Networking,2,494.79,Esther
+O00023,2026-05-19,C0068,Linda Osei,Greater Accra,P007,27-inch Monitor,Displays,1,2126.63,Henry
+O00024,2026-08-18,C0117,Kofi Osei,Eastern,P002,Mechanical Keyboard,Accessories,1,276.47,Gifty
+O00025,2026-05-14,C0166,Nana Asare,Ashanti,P013,Desk Lamp,Furniture,1,180.82,Esther
+O00026,2025-09-19,C0118,Esi Boateng,Western,P015,Bluetooth Speaker,Audio,1,419.17,Bernard
+O00027,2026-01-10,C0164,Efua Nyarko,Greater Accra,P004,Laptop Stand,Accessories,2,171.51,Bernard
+O00028,2025-12-19,C0026,Michael Boateng,Greater Accra,P001,Wireless Mouse,Accessories,1,101.23,David
+O00029,2026-03-08,C0113,Nana Appiah,Greater Accra,P001,Wireless Mouse,Accessories,2,93.4,Akua
+O00030,2025-05-01,C0144,Kofi Quaye,Central,P014,Headset,Audio,3,317.79,Cynthia
+O00031,2026-08-07,C0086,Priscilla Nyarko,Greater Accra,P011,Office Chair,Furniture,1,1301.79,Felix
+O00032,2025-04-14,C0161,Priscilla Darko,Western,P013,Desk Lamp,Furniture,1,173.27,Felix
+O00033,2026-02-01,C0110,Samuel Appiah,Eastern,P009,Performance Laptop,Computers,1,9869.2,Cynthia
+O00034,2025-09-14,C0104,Kwame Owusu,Ashanti,P005,Webcam,Accessories,1,236.59,Gifty
+O00035,2025-01-13,C0117,Kofi Osei,eastern,P017,Flash Drive 128GB,Storage,2,143.5,Bernard
+O00036,2025-10-02,C0134,Daniel Addo,Western,P008,Office Laptop,Computers,-1,6316.25,Akua
+O00037,2026-03-20,C0176,Linda Adjei,Greater Accra,P004,Laptop Stand,Accessories,1,160.87,David
+O00038,2026-07-28,C0064,Kojo Quaye,Central,P010,Mini PC,Computers,2,4831.06,Akua
+O00039,2025-11-29,C0121,Joseph Owusu,Ashanti,P012,Standing Desk,Furniture,1,2772.73,David
+O00040,2026-06-22,C0139,Michael Osei,Eastern,P005,Webcam,Accessories,1,257.12,Esther
+O00041,2026-07-16,C0125,Yaw Agyeman,Greater Accra,P018,Wi-Fi Router,Networking,1,516.36,Felix
+O00042,2025-10-10,C0100,Mabel Asare,Ashanti,P015,Bluetooth Speaker,Audio,2,467.82,Bernard
+O00043,2025-06-14,C0139,Michael Osei,Eastern,P001,Wireless Mouse,Accessories,1,92.09,Gifty
+O00044,2025-11-16,C0058,Adwoa Adjei,Eastern,P009,Performance Laptop,Computers,3,10107.27,Esther
+O00045,2025-02-19,C0065,Linda Nyarko,Western,P013,Desk Lamp,Furniture,5,191.81,Bernard
+O00046,2026-05-15,C0030,Mabel Amankwah,Eastern,P002,Mechanical Keyboard,Accessories,2,287.18,David
+O00047,2026-02-26,C0040,Linda Antwi,Volta,P020,UPS,Power,1,891.43,Esther
+O00048,2025-12-30,C0080,Esi Adjei,Ashanti,P009,Performance Laptop,Computers,2,10230.46,Gifty
+O00049,2026-03-07,C0100,Mabel Asare,Ashanti,P019,Ethernet Switch,Networking,1,671.46,Bernard
+O00050,2025-07-18,C0135,Adwoa Adjei,Ashanti,P001,Wireless Mouse,Accessories,2,101.71,Akua
+O00051,2025-11-04,C0071,Priscilla Asare,Western,P015,Bluetooth Speaker,Audio,2,452.25,Akua
+O00052,2026-05-26,C0085,Isaac Osei,Ashanti,P013,Desk Lamp,Furniture,1,171.33,Henry
+O00053,2025-09-19,C0100,Mabel Asare,Ashanti,P010,Mini PC,Computers,1,4772.35,David
+O00054,2026-04-22,C0051,Kofi Appiah,Greater Accra,P009,Performance Laptop,Computers,1,10312.49,David
+O00055,2026-03-30,C0029,Kofi Mensah,Western,P007,27-inch Monitor,Displays,1,2027.33,Henry
+O00056,2025-04-26,C0044,Linda Addo,Western,P015,Bluetooth Speaker,Audio,2,461.2,Gifty
+O00057,2026-08-26,C0077,Kofi Boateng,Central,P019,Ethernet Switch,Networking,1,696.3,Gifty
+O00058,2025-06-21,C0108,Kofi Boateng,Greater Accra,P006,24-inch Monitor,Displays,1,1385.63,Esther
+O00059,2026-01-07,C0157,Efua Appiah,Western,P006,24-inch Monitor,Displays,1,1420.56, Esther 
+O00060,2025-06-18,C0163,Nana Addo,Greater Accra,P016,External SSD 1TB,Storage,4,847.25,Bernard
+O00061,2026-07-03,C0052,Esi Osei,Greater Accra,P013,Desk Lamp,Furniture,1,,Akua
+O00062,2025-05-10,C0078,Priscilla Asare,Eastern,P005,Webcam,Accessories,1,255.85,Esther
+O00063,2026-02-27,C0113,Nana Appiah,Greater Accra,P009,Performance Laptop,Computers,4,10450.07,Henry
+O00064,2026-07-07,C0016,Nana Boateng,Ashanti,P010,Mini PC,Computers,3,4732.39,Bernard
+O00065,2025-03-16,C0005,Daniel Addo,Northern,P013,Desk Lamp,Furniture,2,184.3,David
+O00066,2025-10-01,C0172,Samuel Osei,Ashanti,P008,Office Laptop,Computers,4,5761.75,Esther
+O00067,2026-04-09,C0178,Linda Addo,Central,P011,Office Chair,Furniture,2,1272.12,Esther
+O00068,2026-08-01,C0080,Esi Adjei,Ashanti,P002,Mechanical Keyboard,Accessories,1,272.33,Bernard
+O00069,2025-09-14,C0077,Kofi Boateng,Central,P014,Headset,Audio,1,300.35,Felix
+O00070,2025-01-08,C0052,Esi Osei,Greater Accra,P007,27-inch Monitor,Displays,-1,2163.78,David
+O00071,2025-06-11,C0110,Samuel Appiah,Eastern,P017,Flash Drive 128GB,Storage,1,155.57,Cynthia
+O00072,2026-03-10,C0179,Ama Osei,Western,P017,Flash Drive 128GB,Storage,1,155.27,Gifty
+O00073,2026-06-12,C0082,Akosua Nyarko,Western,P019,Ethernet Switch,Networking,3,686.23,Akua
+O00074,2026-07-13,C0088,Kofi Owusu,Ashanti,P014,Headset,Audio,4,319.78,Felix
+O00075,2026-03-08,C0129,Yaw Asare,Greater Accra,P007,27-inch Monitor,Displays,2,2165.87,Cynthia
+O00076,2026-04-02,C0081,Samuel Osei,Central,P012,Standing Desk,Furniture,1,2586.39,Cynthia
+O00077,2026-01-27,C0179,Ama Osei,Western,P016,External SSD 1TB,Storage,1,912.93,Gifty
+O00078,2026-05-23,C0160,Ama Addo,Western,P013,Desk Lamp,Furniture,1,168.84,Henry
+O00079,2025-11-24,C0098,Esi Owusu,Ashanti,P010,Mini PC,Computers,3,4468.67,Akua
+O00080,2025-05-12,C0148,Daniel Boateng,Eastern,P016,External SSD 1TB,Storage,4,817.6,David
+O00081,2025-07-25,C0035,Esi Nyarko,Northern,P014,Headset,Audio,2,313.78,Akua
+O00082,2025-12-21,C0160,Ama Addo,Western,P005,Webcam,Accessories,1,232.41,Bernard
+O00083,2026-06-18,C0108,Kofi Boateng,Greater Accra,P008,Office Laptop,Computers,3,5888.36,David
+O00084,2025-11-08,C0145,Efua Adjei,Ashanti,P014,Headset,Audio,2,324.36,David
+O00085,2026-02-17,C0044,Linda Addo,western,P018,Wi-Fi Router,Networking,2,493.78,Henry
+O00086,2025-06-02,C0129,Yaw Asare,Greater Accra,P014,Headset,Audio,2,316.02,Cynthia
+O00087,2025-12-11,C0075,Michael Antwi,Greater Accra,P008,Office Laptop,Computers,2,6640.57,Cynthia
+O00088,2026-06-13,C0139,Michael Osei,Eastern,P013,Desk Lamp,Furniture,2,176.59,Cynthia
+O00089,2026-06-26,C0058, ADWOA ADJEI ,eastern,P007,27-inch Monitor,Displays,1,2302.65,David
+O00090,2025-05-03,C0022,Priscilla Agyeman,Northern,P014,Headset,Audio,3,318.86,Gifty
+O00091,2025-09-21,C0017,Priscilla Tetteh,Greater Accra,P010,Mini PC,Computers,1,4792.62,David
+O00092,2025-11-03,C0071,Priscilla Asare,Western,P006,24-inch Monitor,Displays,2,1563.19,Cynthia
+O00093,2026-02-13,C0033,Joseph Antwi,Ashanti,P007,27-inch Monitor,Displays,2,2091.28,Cynthia
+O00094,2026-05-02,C0123,Akosua Agyeman,Central,P020,UPS,Power,1,878.94,Felix
+O00095,2025-07-13,C0140,Abena Antwi,Greater Accra,P004,Laptop Stand,Accessories,1,153.24,Bernard
+O00096,2025-09-03,C0104,Kwame Owusu,Ashanti,P009,Performance Laptop,Computers,1,9406.13,Esther
+O00097,2026-05-09,C0092,Daniel Tetteh,Ashanti,P011,Office Chair,Furniture,2,1339.45,Esther
+O00098,2025-02-21,C0099,Kojo Antwi,Greater Accra,P008,Office Laptop,Computers,2,6443.09,David
+O00099,2025-10-25,C0092,Daniel Tetteh,Ashanti,P015,Bluetooth Speaker,Audio,1,485.83,Cynthia
+O00100,2025-09-08,C0039,Kojo Asare,Ashanti,P007,27-inch Monitor,Displays,1,2124.32,Felix
+O00101,2026-05-23,C0120, ABENA NYARKO ,Ashanti,P007,27-inch Monitor,Displays,1,2127.44,Gifty
+O00102,2025-11-03,C0125,Yaw Agyeman,Greater Accra,P003,USB-C Hub,Accessories,3,202.31,Henry
+O00103,2026-04-28,C0074,Adwoa Appiah,ashanti,P008,Office Laptop,Computers,2,5948.83,Henry
+O00104,2025-12-16,C0153,Samuel Boateng,Volta,P010,Mini PC,Computers,1,4605.53,David
+O00105,2025-07-21,C0060,Linda Nyarko,Ashanti,P012,Standing Desk,Furniture,1,2580.08,Esther
+O00106,2025-06-03,C0032,Kofi Agyeman,Western,P010,Mini PC,Computers,3,5058.74,Felix
+O00107,2025-09-13,C0050,Abena Tetteh,Northern,P020,UPS,Power,1,880.1,Gifty
+O00108,2026-05-26,C0022,Priscilla Agyeman,Northern,P012,Standing Desk,Furniture,1,2682.19,Akua
+O00109,2026-03-29,C0049,Grace Amankwah,Eastern,P006,24-inch Monitor,Displays,4,,Henry
+O00110,2026-02-02,C0021,Kojo Quaye,Greater Accra,P010,Mini PC,Computers,1,4938.0,David
+O00111,2026-08-24,C0169,Kwame Owusu,Ashanti,P003,USB-C Hub,Accessories,2,214.67,Gifty
+O00112,2025-10-21,C0071,Priscilla Asare,Western,P012,Standing Desk,Furniture,2,2608.07,Henry
+O00113,2025-06-05,C0100,Mabel Asare,Ashanti,P007,27-inch Monitor,Displays,2,2065.01,Akua
+O00114,2025-05-23,C0030,Mabel Amankwah,Eastern,P018,Wi-Fi Router,Networking,4,561.0, Cynthia 
+O00115,2025-06-15,C0087,Michael Darko,Ashanti,P008,Office Laptop,Computers,1,6158.14,Felix
+O00116,2025-03-17,C0017,Priscilla Tetteh,Greater Accra,P016,External SSD 1TB,Storage,2,869.29,Gifty
+O00117,2025-06-28,C0041,Mabel Antwi,Volta,P001,Wireless Mouse,Accessories,1,93.1,Felix
+O00118,2025-11-05,C0162,Efua Antwi,Ashanti,P018,Wi-Fi Router,Networking,3,530.88,Bernard
+O00119,2026-06-14,C0155,Daniel Addo,Ashanti,P016,External SSD 1TB,Storage,2,908.7,Bernard
+O00120,2025-08-01,C0140,Abena Antwi,Greater Accra,P002,Mechanical Keyboard,Accessories,4,263.93,Cynthia
+O00121,2026-08-27,C0162,Efua Antwi,Ashanti,P006,24-inch Monitor,Displays,1,1360.96,Cynthia
+O00122,2025-09-28,C0114,Efua Adjei,Central,P001,Wireless Mouse,Accessories,1,97.06,Felix
+O00123,2026-06-25,C0170,Akosua Nyarko,Greater Accra,P013,Desk Lamp,Furniture,1,166.14,Felix
+O00124,2026-06-21,C0164,Efua Nyarko,Greater Accra,P010,Mini PC,Computers,2,4868.73,Bernard
+O00125,2026-05-06,C0116,Yaw Antwi,Greater Accra,P013,Desk Lamp,Furniture,1,187.27,Felix
+O00126,2025-07-23,C0153,Samuel Boateng,Volta,P014,Headset,Audio,1,303.31,Cynthia
+O00127,2026-05-19,C0125,Yaw Agyeman,Greater Accra,P002,Mechanical Keyboard,Accessories,1,270.25,Esther
+O00128,2025-11-24,C0036,Kofi Tetteh,Northern,P007,27-inch Monitor,Displays,1,2327.61,Esther
+O00129,2026-05-25,C0111,Daniel Osei,Greater Accra,P003,USB-C Hub,Accessories,4,225.14,Henry
+O00130,2026-05-31,C0094,Kwame Antwi,Ashanti,P006,24-inch Monitor,Displays,1,1437.59,Esther
+O00131,2025-08-22,C0068,Linda Osei,Greater Accra,P010,Mini PC,Computers,2,5067.97,Esther
+O00132,2025-12-18,C0030,Mabel Amankwah,Eastern,P007,27-inch Monitor,Displays,2,2155.38,Henry
+O00133,2025-05-08,C0142,Michael Asare,Greater Accra,P007,27-inch Monitor,Displays,1,2148.42,Bernard
+O00134,2026-05-22,C0023,Kofi Adjei,Eastern,P004,Laptop Stand,Accessories,1,164.75,Bernard
+O00135,2026-01-19,C0054,Isaac Asare,Central,P002,Mechanical Keyboard,Accessories,1,257.72,Cynthia
+O00136,2025-05-01,C0025,Kofi Asare,Volta,P016,External SSD 1TB,Storage,1,872.98,Gifty
+O00137,2026-04-25,C0024,Samuel Amankwah,Ashanti,P005,Webcam,Accessories,1,250.14,Henry
+O00138,2026-01-23,C0155,Daniel Addo,Ashanti,P010,Mini PC,Computers,2,4646.79,Gifty
+O00139,2025-06-19,C0123,Akosua Agyeman,Central,P013,Desk Lamp,Furniture,,171.51,Akua
+O00140,2025-04-15,C0167,Joseph Appiah,Greater Accra,P008,Office Laptop,Computers,2,6424.87,Gifty
+O00141,2026-02-02,C0159,Abena Adjei,Greater Accra,P010,Mini PC,Computers,3,4693.05,David
+O00142,2026-08-21,C0004,Samuel Darko,Western,P001,Wireless Mouse,Accessories,1,93.21,Esther
+O00143,2025-03-29,C0012,Adwoa Quaye,Ashanti,P018,Wi-Fi Router,Networking,1,480.33,Cynthia
+O00144,2025-10-15,C0035,Esi Nyarko,Northern,P005,Webcam,Accessories,1,237.82,Bernard
+O00145,2025-12-25,C0061,Kojo Adjei,Greater Accra,P017,Flash Drive 128GB,Storage,1,143.84,Henry
+O00146,2026-04-23,C0038,Kofi Owusu,Volta,P008,Office Laptop,Computers,2,5869.92,Henry
+O00147,2026-07-14,C0115,Daniel Quaye,Northern,P003,USB-C Hub,Accessories,1,194.37,Gifty
+O00148,2026-06-05,C0143,Efua Mensah,Western,P016,External SSD 1TB,Storage,1,820.97,Cynthia
+O00149,2025-05-09,C0158,Linda Osei,Central,P019,Ethernet Switch,Networking,1,677.4,Cynthia
+O00150,2026-07-11,C0145,Efua Adjei,Ashanti,P017,Flash Drive 128GB,Storage,1,148.17,Felix
+O00151,2026-05-01,C0005,Daniel Addo,Northern,P018,Wi-Fi Router,Networking,1,516.58,Felix
+O00152,2025-04-18,C0118,Esi Boateng,Western,P020,UPS,Power,2,858.49,Esther
+O00153,2025-12-20,C0024,Samuel Amankwah,Ashanti,P010,Mini PC,Computers,2,5065.21,Gifty
+O00154,2025-04-23,C0119,Abena Nyarko,Central,P002,Mechanical Keyboard,Accessories,1,284.73,Esther
+O00155,2025-06-29,C0097,Yaw Owusu,Greater Accra,P010,Mini PC,Computers,3,4844.44,Henry
+O00156,28/09/2025,C0109,Grace Amankwah,Greater Accra,P011,Office Chair,Furniture,1,1199.7,Bernard
+O00157,2025-04-27,C0056,Priscilla Boateng,Greater Accra,P019,Ethernet Switch,Networking,2,732.55,Gifty
+O00158,2025-02-25,C0112,Linda Quaye,Greater Accra,P012,Standing Desk,Furniture,4,2613.33,Felix
+O00159,2025-02-11,C0126,Ama Antwi,Greater Accra,P007,27-inch Monitor,Displays,5,2083.52,Akua
+O00160,2026-08-03,C0173,Grace Owusu,Central,P012,Standing Desk,Furniture,1,2545.1,David
+O00161,2025-05-30,C0154,Priscilla Mensah,Ashanti,P006,24-inch Monitor,Displays,4,1421.56,Akua
+O00162,2026-03-28,C0054,Isaac Asare,Central,P019,Ethernet Switch,Networking,1,666.19,Gifty
+O00163,2025-01-31,C0137,Grace Osei,Ashanti,P013,Desk Lamp,Furniture,2,165.85,Gifty
+O00164,2026-07-21,C0128,Joseph Adjei,Greater Accra,P007,27-inch Monitor,Displays,2,2181.91,Cynthia
+O00165,2026-01-18,C0145,Efua Adjei,Ashanti,P008,Office Laptop,Computers,2,6155.54,Akua
+O00166,2025-11-30,C0067,Esi Quaye,Ashanti,P003,USB-C Hub,Accessories,5,205.58,Felix
+O00167,2025-11-26,C0074,Adwoa Appiah,Ashanti,P016,External SSD 1TB,Storage,2,866.46,Akua
+O00168,2025-11-17,C0019,Esi Owusu,ashanti,P009,Performance Laptop,Computers,5,10422.34,Esther
+O00169,2026-08-07,C0061,Kojo Adjei,Greater Accra,P009,Performance Laptop,Computers,3,10465.53,Bernard
+O00170,2026-06-26,C0103,Nana Quaye,Ashanti,P006,24-inch Monitor,Displays,1,1560.09,Akua
+O00171,2025-08-28,C0039,Kojo Asare,Ashanti,P012,Standing Desk,Furniture,1,2797.05,Esther
+O00172,2025-09-15,C0162,Efua Antwi,Ashanti,P006,24-inch Monitor,Displays,1,1528.25,Felix
+O00173,2025-07-30,C0011,Kojo Tetteh,Greater Accra,P012,Standing Desk,Furniture,1,2410.05,Akua
+O00174,2026-01-10,C0156,Kojo Agyeman,Western,P009,Performance Laptop,Computers,1,10508.92,Cynthia
+O00175,2026-07-25,C0134,Daniel Addo,Western,P019,Ethernet Switch,Networking,1,689.82,Cynthia
+O00176,2026-04-09,C0057,Joseph Osei,Eastern,P018,Wi-Fi Router,Networking,4,519.92,David
+O00177,2026-07-27,C0094,Kwame Antwi,Ashanti,P007,27-inch Monitor,Displays,1,2073.94,Akua
+O00178,2025-01-14,C0086,Priscilla Nyarko,Greater Accra,P006,24-inch Monitor,Displays,1,1491.06,Cynthia
+O00179,2025-09-26,C0178,Linda Addo,Central,P004,Laptop Stand,Accessories,2,168.46,Felix
+O00180,2026-02-05,C0159,Abena Adjei,Greater Accra,P007,27-inch Monitor,Displays,1,2061.68,Akua
+O00181,2025-04-06,C0061,Kojo Adjei,Greater Accra,P010,Mini PC,Computers,3,4926.44,Cynthia
+O00182,2025-10-11,C0109,Grace Amankwah,Greater Accra,P015,Bluetooth Speaker,Audio,1,423.39,Bernard
+O00183,2025-07-05,C0102,Ama Quaye,Central,P015,Bluetooth Speaker,Audio,1,459.4,Akua
+O00184,2026-08-02,C0085,Isaac Osei,Ashanti,P005,Webcam,Accessories,2,221.03,Esther
+O00185,2026-01-10,C0142,Michael Asare,Greater Accra,P008,Office Laptop,Computers,2,5942.38,Akua
+O00186,2025-06-02,C0083,Priscilla Owusu,Ashanti,P017,Flash Drive 128GB,Storage,4,161.43,Cynthia
+O00187,2026-05-09,C0170,Akosua Nyarko,Greater Accra,P009,Performance Laptop,Computers,4,10360.83,David
+O00188,2025-11-30,C0054,Isaac Asare,Central,P017,Flash Drive 128GB,Storage,4,142.9,David
+O00189,2025-04-21,C0109, GRACE AMANKWAH ,Greater Accra,P013,Desk Lamp,Furniture,1,168.1,Henry
+O00190,2025-07-03,C0162,Efua Antwi,Ashanti,P008,Office Laptop,Computers,2,6512.25,Bernard
+O00191,2026-02-10,C0014,Grace Agyeman,Western,P001,Wireless Mouse,Accessories,2,93.31,Felix
+O00192,2025-07-14,C0045,Kofi Mensah,Northern,P011,Office Chair,Furniture,1,1230.01,Felix
+O00193,2025-01-20,C0150,Samuel Darko,Central,P016,External SSD 1TB,Storage,4,854.71,Esther
+O00194,2025-09-22,C0166,Nana Asare,Ashanti,P007,27-inch Monitor,Displays,1,2059.91,Akua
+O00195,2025-04-03,C0155,Daniel Addo,Ashanti,P015,Bluetooth Speaker,Audio,3,478.15,Esther
+O00196,2025-07-25,C0096,Mabel Tetteh,Ashanti,P008,Office Laptop,Computers,1,6466.86,Gifty
+O00197,2025-07-13,C0111,Daniel Osei,Greater Accra,P012,Standing Desk,Furniture,4,2612.01,Henry
+O00198,2025-03-18,C0046,Ama Antwi,Eastern,P017,Flash Drive 128GB,Storage,1,143.96,David
+O00199,2026-02-03,C0017,Priscilla Tetteh,Greater Accra,P015,Bluetooth Speaker,Audio,2,433.18,Esther
+O00200,2025-07-16,C0051,Kofi Appiah,Greater Accra,P002,Mechanical Keyboard,Accessories,1,262.89,Felix
+O00201,2026-03-25,C0003,Kojo Adjei,Central,P004,Laptop Stand,Accessories,1,165.27,Gifty
+O00202,2026-03-28,C0153,Samuel Boateng,Volta,P016,External SSD 1TB,Storage,1,898.58,David
+O00203,2025-07-15,C0056,Priscilla Boateng,Greater Accra,P008,Office Laptop,Computers,1,6233.44,Akua
+O00204,2026-05-29,C0037,Esi Appiah,Greater Accra,P007,27-inch Monitor,Displays,1,2305.41,Henry
+O00205,2026-07-30,C0121,Joseph Owusu,Ashanti,P011,Office Chair,Furniture,1,1154.04,Cynthia
+O00206,2025-11-26,C0130,Ama Tetteh,Greater Accra,P015,Bluetooth Speaker,Audio,5,,Felix
+O00207,2026-02-21,C0010,Ama Adjei,Central,P010,Mini PC,Computers,3,4522.74,Felix
+O00208,2025-10-19,C0055,Yaw Antwi,Volta,P017,Flash Drive 128GB,Storage,5,146.5,Felix
+O00209,2026-07-17,C0132,Nana Asare,Eastern,P004,Laptop Stand,Accessories,1,150.97,Esther
+O00210,2026-04-04,C0108,Kofi Boateng,Greater Accra,P016,External SSD 1TB,Storage,1,864.04,Felix
+O00211,2025-07-31,C0067,Esi Quaye,Ashanti,P008,Office Laptop,Computers,1,5846.44,Felix
+O00212,2026-01-23,C0148,Daniel Boateng,Eastern,P006,24-inch Monitor,Displays,3,1373.23,Cynthia
+O00213,2026-05-24,C0046,Ama Antwi,Eastern,P013,Desk Lamp,Furniture,1,187.42,Felix
+O00214,2026-05-21,C0110,Samuel Appiah,Eastern,P017,Flash Drive 128GB,Storage,1,139.23,Gifty
+O00215,2025-04-07,C0062,Abena Asare,Central,P005,Webcam,Accessories,1,232.85,Cynthia
+O00216,2025-05-20,C0075,Michael Antwi,Greater Accra,P010,Mini PC,Computers,1,4907.47,David
+O00217,2025-07-30,C0026,Michael Boateng,Greater Accra,P010,Mini PC,Computers,4,5068.24,Esther
+O00218,2025-02-18,C0156,Kojo Agyeman,Western,P012,Standing Desk,Furniture,1,2477.23,Akua
+O00219,2025-09-23,C0163,Nana Addo,Greater Accra,P020,UPS,Power,2,880.45,Henry
+O00220,2025-12-17,C0029,Kofi Mensah,Western,P001,Wireless Mouse,Accessories,1,92.34,Esther
+O00221,2025-02-22,C0168,Yaw Tetteh,Greater Accra,P014,Headset,Audio,3,344.5,David
+O00222,2026-08-04,C0150,Samuel Darko,Central,P019,Ethernet Switch,Networking,4,726.63,Cynthia
+O00223,2025-05-16,C0140,Abena Antwi,Greater Accra,P012,Standing Desk,Furniture,2,2659.96,Henry
+O00224,2026-06-29,C0163,Nana Addo,Greater Accra,P012,Standing Desk,Furniture,1,2712.37,Esther
+O00225,2025-09-29,C0083,Priscilla Owusu,Ashanti,P009,Performance Laptop,Computers,4,10070.11,Gifty
+O00226,2025-10-26,C0012,Adwoa Quaye,Ashanti,P020,UPS,Power,1,905.94,Akua
+O00227,2026-04-04,C0087,Michael Darko,Ashanti,P006,24-inch Monitor,Displays,1,1492.19,David
+O00228,2026-07-30,C0096,Mabel Tetteh,Ashanti,P018,Wi-Fi Router,Networking,1,503.31, Cynthia 
+O00229,2026-04-11,C0115,Daniel Quaye,Northern,P009,Performance Laptop,Computers,1,9419.46,Felix
+O00230,2026-08-15,C0171,Linda Osei,Greater Accra,P008,Office Laptop,Computers,2,5930.33,Esther
+O00231,2026-08-23,C0006,Adwoa Boateng,Eastern,P019,Ethernet Switch,Networking,1,667.15,Esther
+O00232,2026-06-09,C0171,Linda Osei,Greater Accra,P002,Mechanical Keyboard,Accessories,2,277.26,Gifty
+O00233,2025-10-13,C0169,Kwame Owusu,Ashanti,P020,UPS,Power,2,945.69,Esther
+O00234,2025-09-12,C0074,Adwoa Appiah,Ashanti,P010,Mini PC,Computers,2,4811.89,Henry
+O00235,2025-11-12,C0127,Nana Boateng,Volta,P013,Desk Lamp,Furniture,1,176.36,Akua
+O00236,2025-01-01,C0125,Yaw Agyeman,Greater Accra,P010,Mini PC,Computers,2,4768.07,Cynthia
+O00237,2026-01-12,C0056,Priscilla Boateng,Greater Accra,P004,Laptop Stand,Accessories,1,157.0,Bernard
+O00238,2025-11-22,C0158,Linda Osei,Central,P006,24-inch Monitor,Displays,1,1403.99,Gifty
+O00239,2025-04-29,C0107,Linda Antwi,Northern,P010,Mini PC,Computers,1,4988.44,Cynthia
+O00240,2025-12-15,C0151,Mabel Tetteh,Ashanti,P016,External SSD 1TB,Storage,2,881.7,Esther
+O00241,2025-01-14,C0157, EFUA APPIAH ,Western,P016,External SSD 1TB,Storage,1,852.71,Akua
+O00242,2025-06-08,C0176,Linda Adjei,Greater Accra,P007,27-inch Monitor,Displays,2,2141.66,David
+O00243,2026-05-03,C0129,Yaw Asare,Greater Accra,P020,UPS,Power,1,842.08,Henry
+O00244,2026-07-08,C0128,Joseph Adjei,Greater Accra,P012,Standing Desk,Furniture,1,2742.92,Gifty
+O00245,2025-11-19,C0014,Grace Agyeman,Western,P020,UPS,Power,1,876.87,Henry
+O00246,2025-05-06,C0047,Esi Quaye,Volta,P002,Mechanical Keyboard,Accessories,1,287.13,Henry
+O00247,2026-04-18,C0168,Yaw Tetteh,Greater Accra,P006,24-inch Monitor,Displays,1,1477.28,Henry
+O00248,2025-01-31,C0120,Abena Nyarko,Ashanti,P018,Wi-Fi Router,Networking,3,532.17,Cynthia
+O00249,2025-07-04,C0098,Esi Owusu,Ashanti,P016,External SSD 1TB,Storage,1,909.14,David
+O00250,2025-08-12,C0050,Abena Tetteh,Northern,P003,USB-C Hub,Accessories,5,221.69,Gifty
+O00251,2025-07-20,C0102,Ama Quaye,Central,P009,Performance Laptop,Computers,1,10161.53,Bernard
+O00252,2025-05-04,C0140,Abena Antwi,Greater Accra,P011,Office Chair,Furniture,1,1242.6,David
+O00253,2025-10-22,C0083,Priscilla Owusu,Ashanti,P009,Performance Laptop,Computers,4,9900.29,Akua
+O00254,2025-08-13,C0093,Efua Adjei,Western,P017,Flash Drive 128GB,Storage,1,139.4,Gifty
+O00255,2025-05-11,C0138,Joseph Darko,Greater Accra,P018,Wi-Fi Router,Networking,3,493.77,Cynthia
+O00256,2025-01-17,C0156,Kojo Agyeman,Western,P004,Laptop Stand,Accessories,1,153.72,Bernard
+O00257,2025-10-04,C0041,Mabel Antwi,Volta,P007,27-inch Monitor,Displays,5,2360.91,Esther
+O00258,2026-05-20,C0060,Linda Nyarko,Ashanti,P005,Webcam,Accessories,5,257.45,Cynthia
+O00259,2025-09-20,C0122,Efua Owusu,Eastern,P002,Mechanical Keyboard,Accessories,1,280.22, Bernard 
+O00260,2025-07-25,C0149,Samuel Appiah,Western,P018,Wi-Fi Router,Networking,1,540.37,Bernard
+O00261,2025-07-05,C0022,Priscilla Agyeman,Northern,P016,External SSD 1TB,Storage,2,790.3,Felix
+O00262,2025-08-03,C0038,Kofi Owusu,Volta,P008,Office Laptop,Computers,1,6053.23,Felix
+O00263,2025-08-16,C0098,Esi Owusu,Ashanti,P020,UPS,Power,4,971.33,David
+O00264,2025-12-03,C0057,Joseph Osei,Eastern,P004,Laptop Stand,Accessories,5,156.65,Esther
+O00265,2025-11-12,C0146,Adwoa Tetteh,Greater Accra,P018,Wi-Fi Router,Networking,2,498.63,David
+O00266,2025-08-18,C0165,Kwame Tetteh,Volta,P013,Desk Lamp,Furniture,1,193.68,David
+O00267,2026-02-01,C0047,Esi Quaye,Volta,P016,External SSD 1TB,Storage,4,788.13,Bernard
+O00268,2025-06-20,C0036,Kofi Tetteh,Northern,P003,USB-C Hub,Accessories,1,214.25,Bernard
+O00269,2025-08-10,C0157,Efua Appiah,Western,P018,Wi-Fi Router,Networking,2,525.72,Esther
+O00270,2026-02-27,C0167,Joseph Appiah,Greater Accra,P011,Office Chair,Furniture,1,1331.33,Esther
+O00271,2025-01-08,C0009,Adwoa Tetteh,Ashanti,P008,Office Laptop,Computers,1,6028.59,David
+O00272,2025-12-24,C0082,Akosua Nyarko,Western,P017,Flash Drive 128GB,Storage,3,151.44,Henry
+O00273,2025-07-10,C0116,Yaw Antwi,Greater Accra,P020,UPS,Power,3,867.36,Esther
+O00274,2025-10-28,C0148,Daniel Boateng,Eastern,P016,External SSD 1TB,Storage,2,878.77,Esther
+O00275,2026-08-05,C0068,Linda Osei,Greater Accra,P008,Office Laptop,Computers,1,6432.33,Akua
+O00276,2026-03-08,C0051,Kofi Appiah,Greater Accra,P004,Laptop Stand,Accessories,1,153.14,Bernard
+O00277,2025-02-01,C0116,Yaw Antwi,Greater Accra,P005,Webcam,Accessories,1,233.0,Esther
+O00278,2025-07-21,C0083,Priscilla Owusu,Ashanti,P008,Office Laptop,Computers,4,6471.43,Cynthia
+O00279,2026-08-28,C0169,Kwame Owusu,Ashanti,P008,Office Laptop,Computers,1,5736.8,Esther
+O00280,2026-03-09,C0091,Adwoa Antwi,Eastern,P002,Mechanical Keyboard,Accessories,2,268.73,Felix
+O00281,2025-02-10,C0082,Akosua Nyarko,Western,P018,Wi-Fi Router,Networking,1,518.66,Bernard
+O00282,2025-09-25,C0007,Efua Antwi,Northern,P014,Headset,Audio,1,335.83,Henry
+O00283,2026-01-04,C0078,Priscilla Asare,Eastern,P009,Performance Laptop,Computers,2,9971.13,Bernard
+O00284,2026-08-12,C0061,Kojo Adjei,Greater Accra,P018,Wi-Fi Router,Networking,2,522.74,Cynthia
+O00285,2025-10-13,C0032,Kofi Agyeman,Western,P011,Office Chair,Furniture,2,1295.57,Gifty
+O00286,2025-07-12,C0052,Esi Osei,Greater Accra,P014,Headset,Audio,1,306.59,Henry
+O00287,2026-08-17,C0062,Abena Asare,Central,P012,Standing Desk,Furniture,2,2408.65,Gifty
+O00288,2026-07-20,C0175,Adwoa Agyeman,Northern,P013,Desk Lamp,Furniture,2,178.23,Felix
+O00289,2025-05-27,C0038,Kofi Owusu,Volta,P016,External SSD 1TB,Storage,3,792.39,Esther
+O00290,2025-12-09,C0029,Kofi Mensah,Western,P006,24-inch Monitor,Displays,5,1464.24,Cynthia
+O00291,2025-03-14,C0161,Priscilla Darko,Western,P015,Bluetooth Speaker,Audio,5,423.36,David
+O00292,2025-08-14,C0120,Abena Nyarko,Ashanti,P004,Laptop Stand,Accessories,2,152.94,Gifty
+O00293,2025-12-13,C0098,Esi Owusu,Ashanti,P018,Wi-Fi Router,Networking,4,505.02,Felix
+O00294,2025-08-17,C0122,Efua Owusu,Eastern,P011,Office Chair,Furniture,4,1154.92,Esther
+O00295,2025-12-20,C0066,Kojo Tetteh,Volta,P003,USB-C Hub,Accessories,2,208.87,Gifty
+O00296,2025-12-29,C0108,Kofi Boateng,Greater Accra,P002,Mechanical Keyboard,Accessories,3,280.83,Bernard
+O00297,2026-07-20,C0088,Kofi Owusu,Ashanti,P006,24-inch Monitor,Displays,2,1419.98,David
+O00298,2025-02-03,C0016,Nana Boateng,ashanti,P004,Laptop Stand,Accessories,1,150.11,Felix
+O00299,2025-04-12,C0104,Kwame Owusu,Ashanti,P015,Bluetooth Speaker,Audio,4,462.55,Henry
+O00300,2026-03-20,C0163,Nana Addo,Greater Accra,P006,24-inch Monitor,Displays,1,1440.56,Esther
+O00301,2025-06-18,C0140,Abena Antwi,Greater Accra,P008,Office Laptop,Computers,3,6059.69,Bernard
+O00302,2025-02-09,C0139,Michael Osei,Eastern,P003,USB-C Hub,Accessories,3,200.9,David
+O00303,2025-01-27,C0150,Samuel Darko,Central,P002,Mechanical Keyboard,Accessories,1,270.55,Felix
+O00304,2025-05-28,C0146,Adwoa Tetteh,Greater Accra,P015,Bluetooth Speaker,Audio,2,432.64,Cynthia
+O00305,2025-03-22,C0167,Joseph Appiah,Greater Accra,P008,Office Laptop,Computers,2,6329.43,Akua
+O00306,2025-04-15,C0079,Nana Owusu,Central,P016,External SSD 1TB,Storage,2,811.39,Cynthia
+O00307,2025-01-03,C0088,Kofi Owusu,Ashanti,P003,USB-C Hub,Accessories,1,202.73,Gifty
+O00308,2025-09-24,C0030,Mabel Amankwah,Eastern,P008,Office Laptop,Computers,1,6498.91,David
+O00309,2026-01-05,C0023,Kofi Adjei,Eastern,P016,External SSD 1TB,Storage,2,902.55,Cynthia
+O00310,2026-02-06,C0122,Efua Owusu,Eastern,P015,Bluetooth Speaker,Audio,1,434.3,Cynthia
+O00311,2025-02-10,C0122,Efua Owusu,Eastern,P006,24-inch Monitor,Displays,1,1421.75,Akua
+O00312,2025-05-16,C0159,Abena Adjei,Greater Accra,P015,Bluetooth Speaker,Audio,1,423.31,Gifty
+O00313,2025-05-05,C0179,Ama Osei,Western,P002,Mechanical Keyboard,Accessories,1,284.78,Akua
+O00314,2026-04-09,C0120,Abena Nyarko,Ashanti,P007,27-inch Monitor,Displays,1,2029.87,Esther
+O00315,2026-08-07,C0124,Mabel Nyarko,Greater Accra,P009,Performance Laptop,Computers,1,10347.95,Bernard
+O00316,2026-08-25,C0080,Esi Adjei,Ashanti,P019,Ethernet Switch,Networking,2,709.7,David
+O00317,2025-09-20,C0085,Isaac Osei,Ashanti,P020,UPS,Power,1,849.12,Cynthia
+O00318,2026-08-30,C0104,Kwame Owusu,Ashanti,P018,Wi-Fi Router,Networking,5,489.27,Felix
+O00319,2025-12-25,C0004,Samuel Darko,Western,P002,Mechanical Keyboard,Accessories,1,259.92,David
+O00320,2025-02-24,C0150,Samuel Darko,Central,P015,Bluetooth Speaker,Audio,4,469.28,Bernard
+O00321,2025-03-17,C0032,Kofi Agyeman,Western,P004,Laptop Stand,Accessories,1,158.01,Bernard
+O00322,2025-06-01,C0145, EFUA ADJEI ,Ashanti,P010,Mini PC,Computers,1,4630.65,Esther
+O00323,2026-04-11,C0062,Abena Asare,Central,P001,Wireless Mouse,Accessories,3,101.8,Bernard
+O00324,2026-02-27,C0128,Joseph Adjei,Greater Accra,P004,Laptop Stand,Accessories,2,148.58,Gifty
+O00325,2025-12-05,C0032,Kofi Agyeman,Western,P007,27-inch Monitor,Displays,1,2241.25,Akua
+O00326,2025-01-27,C0022,Priscilla Agyeman,Northern,P004,Laptop Stand,Accessories,1,149.82,Henry
+O00327,2026-07-28,C0047,Esi Quaye,Volta,P002,Mechanical Keyboard,Accessories,1,282.62,David
+O00328,2026-01-14,C0079,Nana Owusu,Central,P003,USB-C Hub,Accessories,1,196.89,Akua
+O00329,2025-02-21,C0058,Adwoa Adjei,Eastern,P016,External SSD 1TB,Storage,1,798.85,Gifty
+O00330,2025-06-08,C0146, ADWOA TETTEH ,Greater Accra,P008,Office Laptop,Computers,1,6191.91,Henry
+O00331,2026-01-02,C0162,Efua Antwi,Ashanti,P019,Ethernet Switch,Networking,,662.28,Esther
+O00332,2025-10-28,C0083,Priscilla Owusu,Ashanti,P003,USB-C Hub,Accessories,1,193.91,Felix
+O00333,2026-03-17,C0013,Abena Boateng,Ashanti,P004,Laptop Stand,Accessories,1,152.78,Bernard
+O00334,2025-01-18,C0118,Esi Boateng,Western,P011,Office Chair,Furniture,2,1236.35,Akua
+O00335,2025-11-07,C0016,Nana Boateng,Ashanti,P008,Office Laptop,Computers,2,6305.99,Felix
+O00336,2025-08-26,C0177,Efua Agyeman,Ashanti,P002,Mechanical Keyboard,Accessories,1,291.69,Bernard
+O00337,2026-03-20,C0073,Kwame Boateng,Greater Accra,P002,Mechanical Keyboard,Accessories,1,281.47,Cynthia
+O00338,2026-06-02,C0167,Joseph Appiah,Greater Accra,P010,Mini PC,Computers,1,4892.33,Akua
+O00339,2025-03-05,C0136,Isaac Tetteh,Greater Accra,P009,Performance Laptop,Computers,1,10411.89,David
+O00340,2025-03-01,C0129,Yaw Asare,Greater Accra,P012,Standing Desk,Furniture,2,2802.84,Gifty
+O00341,2025-06-28,C0145,Efua Adjei,Ashanti,P014,Headset,Audio,3,296.29,Cynthia
+O00342,2025-05-19,C0152,Mabel Agyeman,Central,P002,Mechanical Keyboard,Accessories,3,271.52,David
+O00343,2025-02-08,C0011,Kojo Tetteh,Greater Accra,P014,Headset,Audio,1,322.69,Bernard
+O00344,2025-06-03,C0094,Kwame Antwi,Ashanti,P007,27-inch Monitor,Displays,1,2032.27,Henry
+O00345,2026-06-21,C0007,Efua Antwi,Northern,P018,Wi-Fi Router,Networking,1,525.05,David
+O00346,2026-01-21,C0052,Esi Osei,Greater Accra,P016,External SSD 1TB,Storage,5,824.96,David
+O00347,2025-10-26,C0108,Kofi Boateng,Greater Accra,P010,Mini PC,Computers,1,4676.76,Gifty
+O00348,2026-07-22,C0127,Nana Boateng,Volta,P015,Bluetooth Speaker,Audio,1,437.35,Felix
+O00349,2026-02-03,C0149,Samuel Appiah,Western,P018,Wi-Fi Router,Networking,2,519.09,Henry
+O00350,2026-02-05,C0004,Samuel Darko,Western,P018,Wi-Fi Router,Networking,1,512.82,David
+O00351,2026-05-04,C0134,Daniel Addo,Western,P012,Standing Desk,Furniture,1,2729.56,Felix
+O00352,2026-06-27,C0015,Adwoa Adjei,Western,P009,Performance Laptop,Computers,3,10005.66,Felix
+O00353,2025-08-11,C0118,Esi Boateng,Western,P005,Webcam,Accessories,1,228.53,Esther
+O00354,2025-06-13,C0023,Kofi Adjei,Eastern,P013,Desk Lamp,Furniture,1,183.06,David
+O00355,2026-02-18,C0072, AKOSUA NYARKO ,Greater Accra,P005,Webcam,Accessories,1,235.55,Felix
+O00356,2025-08-25,C0085, ISAAC OSEI ,Ashanti,P020,UPS,Power,5,941.75,Akua
+O00357,2026-07-14,C0133,Kojo Darko,Northern,P003,USB-C Hub,Accessories,1,223.01,Esther
+O00358,2025-10-05,C0171,Linda Osei,Greater Accra,P013,Desk Lamp,Furniture,4,183.74,Akua
+O00359,2026-05-14,C0094,Kwame Antwi,Ashanti,P016,External SSD 1TB,Storage,1,906.04,Cynthia
+O00360,2025-01-03,C0048,Yaw Osei,Greater Accra,P015,Bluetooth Speaker,Audio,1,454.58,Cynthia
+O00361,2025-07-08,C0118,Esi Boateng,Western,P011,Office Chair,Furniture,1,1290.64,Felix
+O00362,2025-01-02,C0047,Esi Quaye,Volta,P009,Performance Laptop,Computers,2,9966.23,Bernard
+O00363,2026-07-21,C0064,Kojo Quaye,Central,P018,Wi-Fi Router,Networking,-1,536.95,Gifty
+O00364,2025-12-16,C0152,Mabel Agyeman,Central,P020,UPS,Power,3,854.51, Akua 
+O00365,2026-01-17,C0064,Kojo Quaye,Central,P014,Headset,Audio,2,331.36,Akua
+O00366,2026-05-04,C0120,Abena Nyarko,Ashanti,P016,External SSD 1TB,Storage,1,787.52,Bernard
+O00367,2025-11-04,C0121,Joseph Owusu,Ashanti,P001,Wireless Mouse,Accessories,,100.03,David
+O00368,2025-05-22,C0057,Joseph Osei,Eastern,P004,Laptop Stand,Accessories,1,158.25,Cynthia
+O00369,2026-03-31,C0003,Kojo Adjei,Central,P011,Office Chair,Furniture,2,1211.96,Felix
+O00370,2026-03-29,C0068,Linda Osei,Greater Accra,P001,Wireless Mouse,Accessories,2,91.85,Gifty
+O00371,2026-01-14,C0169,Kwame Owusu,Ashanti,P008,Office Laptop,Computers,1,6575.13,Felix
+O00372,2025-04-01,C0046,Ama Antwi,Eastern,P010,Mini PC,Computers,5,4972.86,David
+O00373,2026-07-26,C0028,Mabel Amankwah,Volta,P001,Wireless Mouse,Accessories,2,96.38,Akua
+O00374,2025-04-22,C0152, MABEL AGYEMAN ,Central,P002,Mechanical Keyboard,Accessories,3,266.18,David
+O00375,2025-08-26,C0077,Kofi Boateng,Central,P011,Office Chair,Furniture,2,1322.43,Felix
+O00376,2025-09-17,C0048,Yaw Osei,Greater Accra,P009,Performance Laptop,Computers,1,10370.19,Felix
+O00377,2026-06-22,C0021,Kojo Quaye,Greater Accra,P007,27-inch Monitor,Displays,1,2223.17,Gifty
+O00378,2025-03-03,C0117,Kofi Osei,Eastern,P017,Flash Drive 128GB,Storage,2,146.3,Henry
+O00379,2026-03-21,C0110,Samuel Appiah,Eastern,P006,24-inch Monitor,Displays,1,1487.45,Esther
+O00380,2025-12-14,C0078,Priscilla Asare,Eastern,P008,Office Laptop,Computers,2,6484.37,Esther
+O00381,2026-03-13,C0168,Yaw Tetteh,greater accra,P008,Office Laptop,Computers,2,6546.8,Henry
+O00382,2026-05-16,C0134,Daniel Addo,Western,P014,Headset,Audio,2,330.07,Gifty
+O00383,2025-04-25,C0064,Kojo Quaye,Central,P011,Office Chair,Furniture,1,1287.35,Henry
+O00384,2025-03-04,C0083,Priscilla Owusu,Ashanti,P006,24-inch Monitor,Displays,1,1513.98,Bernard
+O00385,2026-03-30,C0064,Kojo Quaye,Central,P009,Performance Laptop,Computers,1,9931.86,Cynthia
+O00386,2026-07-30,C0143,Efua Mensah,Western,P002,Mechanical Keyboard,Accessories,4,289.04,Gifty
+O00387,2025-11-11,C0085,Isaac Osei,Ashanti,P007,27-inch Monitor,Displays,1,2209.16,Felix
+O00388,2025-07-09,C0060,Linda Nyarko,Ashanti,P010,Mini PC,Computers,1,4688.25,Cynthia
+O00389,2025-03-14,C0111,Daniel Osei,Greater Accra,P009,Performance Laptop,Computers,5,10500.33,Henry
+O00390,2026-06-18,C0108,Kofi Boateng,Greater Accra,P011,Office Chair,Furniture,5,1293.68,Gifty
+O00391,2026-08-01,C0142,Michael Asare,Greater Accra,P017,Flash Drive 128GB,Storage,1,139.11,David
+O00392,2026-04-05,C0027,Efua Appiah,Northern,P003,USB-C Hub,Accessories,1,215.4,Esther
+O00393,2026-05-04,C0071,Priscilla Asare,Western,P006,24-inch Monitor,Displays,1,1385.13,Esther
+O00394,2025-08-25,C0069,Yaw Addo,Greater Accra,P007,27-inch Monitor,Displays,1,2365.9,Cynthia
+O00395,2025-02-20,C0125,Yaw Agyeman,Greater Accra,P011,Office Chair,Furniture,2,1196.56,Gifty
+O00396,2026-03-06,C0166,Nana Asare,Ashanti,P018,Wi-Fi Router,Networking,1,516.6,Cynthia
+O00397,2025-10-26,C0157,Efua Appiah,Western,P007,27-inch Monitor,Displays,2,2262.0,Akua
+O00398,2026-06-27,C0073,Kwame Boateng,Greater Accra,P019,Ethernet Switch,Networking,2,654.82,David
+O00399,2025-05-09,C0019,Esi Owusu,Ashanti,P012,Standing Desk,Furniture,2,2726.47,Esther
+O00400,2025-07-25,C0094,Kwame Antwi,Ashanti,P006,24-inch Monitor,Displays,1,1356.56,Felix
+O00401,2026-01-24,C0171,Linda Osei,Greater Accra,P010,Mini PC,Computers,2,4891.69,Bernard
+O00402,2025-04-07,C0058,Adwoa Adjei,Eastern,P016,External SSD 1TB,Storage,1,876.17,Henry
+O00403,2025-12-20,C0093,Efua Adjei,Western,P003,USB-C Hub,Accessories,1,213.59,Gifty
+O00404,2026-07-01,C0088,Kofi Owusu,Ashanti,P007,27-inch Monitor,Displays,2,2287.39,Cynthia
+O00405,2025-07-20,C0172,Samuel Osei,Ashanti,P017,Flash Drive 128GB,Storage,1,159.81,Akua
+O00406,2025-07-21,C0179,Ama Osei,Western,P014,Headset,Audio,5,299.02,Bernard
+O00407,2026-08-18,C0097,Yaw Owusu,Greater Accra,P010,Mini PC,Computers,1,4614.53,Henry
+O00408,2025-05-16,C0102,Ama Quaye,Central,P011,Office Chair,Furniture,1,1309.71,David
+O00409,2025-05-03,C0006,Adwoa Boateng,Eastern,P015,Bluetooth Speaker,Audio,1,423.91,Gifty
+O00410,2026-04-28,C0073,Kwame Boateng,Greater Accra,P020,UPS,Power,4,920.73,Henry
+O00411,2025-09-20,C0054,Isaac Asare,Central,P013,Desk Lamp,Furniture,1,185.2,Esther
+O00412,2026-08-18,C0068,Linda Osei,Greater Accra,P018,Wi-Fi Router,Networking,1,561.2,Felix
+O00413,2025-06-04,C0126,Ama Antwi,Greater Accra,P009,Performance Laptop,Computers,1,10095.24,Cynthia
+O00414,2025-02-14,C0033,Joseph Antwi,Ashanti,P008,Office Laptop,Computers,1,5829.72,Cynthia
+O00415,2026-05-22,C0014,Grace Agyeman,Western,P014,Headset,Audio,1,331.01,Akua
+O00416,2025-08-20,C0115,Daniel Quaye,Northern,P007,27-inch Monitor,Displays,1,2074.14,Gifty
+O00417,2025-05-13,C0136,Isaac Tetteh,Greater Accra,P013,Desk Lamp,Furniture,1,189.52,Cynthia
+O00418,2025-09-20,C0063,Efua Agyeman,Greater Accra,P010,Mini PC,Computers,2,4642.33,Gifty
+O00419,2025-07-04,C0172,Samuel Osei,Ashanti,P012,Standing Desk,Furniture,2,2697.88,David
+O00420,2026-05-28,C0005,Daniel Addo,Northern,P006,24-inch Monitor,Displays,1,1489.7,Esther
+O00421,2025-02-06,C0094,Kwame Antwi,Ashanti,P003,USB-C Hub,Accessories,2,209.96,Cynthia
+O00422,2026-05-02,C0031,Kofi Nyarko,Greater Accra,P013,Desk Lamp,Furniture,2,184.21,David
+O00423,2026-03-06,C0165,Kwame Tetteh,Volta,P003,USB-C Hub,Accessories,3,207.93,Felix
+O00424,2026-05-23,C0030,Mabel Amankwah,Eastern,P011,Office Chair,Furniture,3,1345.95,Cynthia
+O00425,2026-07-07,C0013,Abena Boateng,Ashanti,P007,27-inch Monitor,Displays,5,2304.16,Bernard
+O00426,2025-11-12,C0108,Kofi Boateng,Greater Accra,P011,Office Chair,Furniture,1,1233.44,Cynthia
+O00427,2025-12-04,C0157,Efua Appiah,Western,P017,Flash Drive 128GB,Storage,1,138.3,Esther
+O00428,2025-02-07,C0025,Kofi Asare,Volta,P003,USB-C Hub,Accessories,1,218.8,Felix
+O00429,2026-01-23,C0024,Samuel Amankwah,Ashanti,P004,Laptop Stand,Accessories,2,147.37,Felix
+O00430,2025-12-14,C0046,Ama Antwi,Eastern,P017,Flash Drive 128GB,Storage,4,142.02,Cynthia
+O00431,2025-05-02,C0132,Nana Asare,Eastern,P016,External SSD 1TB,Storage,1,846.98,Akua
+O00432,2025-12-03,C0167,Joseph Appiah,Greater Accra,P014,Headset,Audio,1,311.66,Felix
+O00433,2025-06-01,C0068,Linda Osei,Greater Accra,P008,Office Laptop,Computers,1,5878.07,Esther
+O00434,2025-01-29,C0146,Adwoa Tetteh,Greater Accra,P008,Office Laptop,Computers,1,6558.66,Felix
+O00435,2026-05-24,C0131,Kojo Tetteh,Ashanti,P006,24-inch Monitor,Displays,1,1439.92,Henry
+O00436,2026-01-28,C0022,Priscilla Agyeman,Northern,P006,24-inch Monitor,Displays,1,1542.05,David
+O00437,2025-07-02,C0083,Priscilla Owusu,Ashanti,P003,USB-C Hub,Accessories,2,213.0,Henry
+O00438,2025-04-27,C0071,Priscilla Asare,Western,P011,Office Chair,Furniture,3,1295.66,Cynthia
+O00439,2025-05-09,C0025,Kofi Asare,Volta,P006,24-inch Monitor,Displays,2,1463.73,Bernard
+O00440,2025-11-19,C0089,Abena Osei,Central,P013,Desk Lamp,Furniture,3,170.44,Gifty
+O00441,2025-04-25,C0090,Mabel Darko,Volta,P015,Bluetooth Speaker,Audio,1,454.93,Cynthia
+O00442,2026-03-12,C0050,Abena Tetteh,Northern,P019,Ethernet Switch,Networking,2,661.06,Felix
+O00443,2025-08-28,C0038,Kofi Owusu,Volta,P019,Ethernet Switch,Networking,1,728.72,Esther
+O00444,2025-04-21,C0125,Yaw Agyeman,Greater Accra,P019,Ethernet Switch,Networking,1,643.23,Esther
+O00445,2025-12-05,C0176,Linda Adjei,Greater Accra,P013,Desk Lamp,Furniture,1,184.81,David
+O00446,15/01/2025,C0084,Nana Appiah,Western,P003,USB-C Hub,Accessories,3,209.8,David
+O00447,2025-05-06,C0114,Efua Adjei,Central,P009,Performance Laptop,Computers,1,10098.43,Bernard
+O00448,2026-06-30,C0168,Yaw Tetteh,Greater Accra,P010,Mini PC,Computers,1,4468.63,Esther
+O00449,2025-01-26,C0139,Michael Osei,Eastern,P018,Wi-Fi Router,Networking,1,557.46,Akua
+O00450,2025-11-23,C0040,Linda Antwi,Volta,P004,Laptop Stand,Accessories,1,162.85,Akua
+O00451,2025-10-25,C0117,Kofi Osei,Eastern,P009,Performance Laptop,Computers,1,9025.29,Gifty
+O00452,2026-03-08,C0148,Daniel Boateng,Eastern,P015,Bluetooth Speaker,Audio,3,459.64,Gifty
+O00453,2026-02-02,C0133,Kojo Darko,Northern,P005,Webcam,Accessories,2,231.85,Henry
+O00454,2025-03-27,C0083,Priscilla Owusu,Ashanti,P009,Performance Laptop,Computers,3,9457.28,Bernard
+O00455,2025-10-03,C0147,Linda Agyeman,Ashanti,P010,Mini PC,Computers,1,4993.22,Bernard
+O00456,2026-02-22,C0010,Ama Adjei,Central,P010,Mini PC,Computers,1,4726.17,Henry
+O00457,2025-03-22,C0160,Ama Addo,Western,P007,27-inch Monitor,Displays,3,2164.55,Felix
+O00458,2026-08-28,C0095,Linda Antwi,Northern,P015,Bluetooth Speaker,Audio,3,426.42,Felix
+O00459,2026-05-29,C0059,Akosua Owusu,Ashanti,P013,Desk Lamp,Furniture,2,179.58,Gifty
+O00460,2025-07-17,C0132,Nana Asare,Eastern,P007,27-inch Monitor,Displays,2,2070.97,Esther
+O00461,2025-04-29,C0007,Efua Antwi,Northern,P020,UPS,Power,2,945.57,Cynthia
+O00462,2026-02-03,C0115,Daniel Quaye,Northern,P020,UPS,Power,2,863.83,Henry
+O00463,2025-03-16,C0063,Efua Agyeman,Greater Accra,P009,Performance Laptop,Computers,3,9134.42, Henry 
+O00464,2025-10-24,C0169,Kwame Owusu,Ashanti,P010,Mini PC,Computers,2,4510.44,Bernard
+O00465,2025-01-04,C0129,Yaw Asare,Greater Accra,P005,Webcam,Accessories,2,236.05,Henry
+O00466,2026-02-28,C0088,Kofi Owusu,Ashanti,P003,USB-C Hub,Accessories,1,198.29,Felix
+O00467,2025-09-26,C0022,Priscilla Agyeman,Northern,P011,Office Chair,Furniture,4,1333.43,Esther
+O00468,2026-07-18,C0048,Yaw Osei,Greater Accra,P007,27-inch Monitor,Displays,1,2255.27,Akua
+O00469,2025-05-05,C0028,Mabel Amankwah,Volta,P020,UPS,Power,1,960.27,Cynthia
+O00470,2025-02-10,C0171,Linda Osei,Greater Accra,P017,Flash Drive 128GB,Storage,2,156.71,Gifty
+O00471,2025-01-20,C0080,Esi Adjei,Ashanti,P015,Bluetooth Speaker,Audio,2,454.38,David
+O00472,2025-05-15,C0112,Linda Quaye,Greater Accra,P001,Wireless Mouse,Accessories,1,92.49,Esther
+O00473,2025-03-28,C0125,Yaw Agyeman,Greater Accra,P006,24-inch Monitor,Displays,3,1455.93,Felix
+O00474,2026-04-20,C0029,Kofi Mensah,Western,P014,Headset,Audio,4,307.54,Esther
+O00475,2025-05-26,C0035,Esi Nyarko,Northern,P013,Desk Lamp,Furniture,1,172.89,Gifty
+O00476,2025-12-25,C0060,Linda Nyarko,Ashanti,P002,Mechanical Keyboard,Accessories,3,282.08,Cynthia
+O00477,2025-05-07,C0146,Adwoa Tetteh,Greater Accra,P010,Mini PC,Computers,2,5163.07,Akua
+O00478,2026-01-17,C0138,Joseph Darko,Greater Accra,P016,External SSD 1TB,Storage,2,908.94,Henry
+O00479,2025-01-17,C0095,Linda Antwi,Northern,P005,Webcam,Accessories,2,227.78,Henry
+O00480,2026-07-25,C0096,Mabel Tetteh,Ashanti,P008,Office Laptop,Computers,1,6069.9,Henry
+O00481,2025-03-13,C0068,Linda Osei,Greater Accra,P018,Wi-Fi Router,Networking,5,510.1,Henry
+O00482,2025-01-07,C0180,Linda Tetteh,Greater Accra,P012,Standing Desk,Furniture,1,2801.41,Akua
+O00483,2025-11-04,C0068,Linda Osei,Greater Accra,P007,27-inch Monitor,Displays,2,2259.07,Esther
+O00484,2026-04-26,C0086,Priscilla Nyarko,Greater Accra,P006,24-inch Monitor,Displays,2,1347.17,Esther
+O00485,2025-08-27,C0055,Yaw Antwi,Volta,P002,Mechanical Keyboard,Accessories,2,294.62,Esther
+O00486,2026-02-11,C0009,Adwoa Tetteh,Ashanti,P007,27-inch Monitor,Displays,1,2328.07,Felix
+O00487,2026-02-17,C0074,Adwoa Appiah,Ashanti,P011,Office Chair,Furniture,1,1213.71,Bernard
+O00488,2026-07-03,C0087,Michael Darko,Ashanti,P014,Headset,Audio,1,310.93,David
+O00489,2026-06-06,C0127,Nana Boateng,Volta,P014,Headset,Audio,2,318.56,Felix
+O00490,2025-01-28,C0005,Daniel Addo,northern,P012,Standing Desk,Furniture,1,2522.26,Gifty
+O00491,2025-03-16,C0170,Akosua Nyarko,Greater Accra,P002,Mechanical Keyboard,Accessories,1,296.33,Gifty
+O00492,2025-02-14,C0174,Samuel Amankwah,Northern,P014,Headset,Audio,1,344.11,David
+O00493,2025-10-05,C0143,Efua Mensah,Western,P014,Headset,Audio,1,303.06,Felix
+O00494,2025-07-02,C0053,Grace Appiah,Western,P018,Wi-Fi Router,Networking,2,560.49,Cynthia
+O00495,2025-07-27,C0056,Priscilla Boateng,Greater Accra,P003,USB-C Hub,Accessories,3,212.57,Gifty
+O00496,2026-05-20,C0176,Linda Adjei,Greater Accra,P017,Flash Drive 128GB,Storage,2,138.43,Gifty
+O00497,2025-01-21,C0111,Daniel Osei,Greater Accra,P008,Office Laptop,Computers,1,5836.13,Bernard
+O00498,2025-07-25,C0004,Samuel Darko,Western,P013,Desk Lamp,Furniture,1,189.79,Esther
+O00499,2025-05-20,C0123,Akosua Agyeman,Central,P007,27-inch Monitor,Displays,1,2322.83,Henry
+O00500,2025-01-20,C0031,Kofi Nyarko,Greater Accra,P020,UPS,Power,3,933.98,Felix
+O00501,2025-05-16,C0147,Linda Agyeman,Ashanti,P007,27-inch Monitor,Displays,4,2324.8,Henry
+O00502,2026-06-11,C0110,Samuel Appiah,Eastern,P005,Webcam,Accessories,1,220.94,Felix
+O00503,2026-04-20,C0145,Efua Adjei,Ashanti,P001,Wireless Mouse,Accessories,2,97.68,Esther
+O00504,2025-04-07,C0051,Kofi Appiah,Greater Accra,P018,Wi-Fi Router,Networking,1,510.0,Cynthia
+O00505,2025-03-10,C0014,Grace Agyeman,Western,P009,Performance Laptop,Computers,1,10165.4,Akua
+O00506,2025-05-03,C0128,Joseph Adjei,Greater Accra,P011,Office Chair,Furniture,3,1205.55,Gifty
+O00507,2025-01-31,C0087,Michael Darko,Ashanti,P009,Performance Laptop,Computers,2,9739.73,Esther
+O00508,2025-08-24,C0061,Kojo Adjei,Greater Accra,P006,24-inch Monitor,Displays,2,1527.19,Esther
+O00509,2025-04-14,C0114,Efua Adjei,Central,P009,Performance Laptop,Computers,1,9929.02,Gifty
+O00510,2026-07-24,C0066,Kojo Tetteh,Volta,P008,Office Laptop,Computers,3,6013.82,Akua
+O00511,2026-05-17,C0162,Efua Antwi,Ashanti,P005,Webcam,Accessories,2,243.02,Gifty
+O00512,2025-07-06,C0086,Priscilla Nyarko,Greater Accra,P007,27-inch Monitor,Displays,3,2144.03,Bernard
+O00513,2026-05-27,C0150,Samuel Darko,Central,P014,Headset,Audio,2,331.74,Esther
+O00514,2025-01-05,C0081,Samuel Osei,Central,P001,Wireless Mouse,Accessories,2,93.02,Henry
+O00515,2025-08-24,C0019,Esi Owusu,Ashanti,P007,27-inch Monitor,Displays,1,2347.03,Akua
+O00516,2026-03-14,C0089,Abena Osei,Central,P011,Office Chair,Furniture,3,1276.21,Felix
+O00517,2026-02-01,C0019,Esi Owusu,Ashanti,P006,24-inch Monitor,Displays,2,1439.15,Gifty
+O00518,2026-08-30,C0066,Kojo Tetteh,Volta,P012,Standing Desk,Furniture,1,2591.69,David
+O00519,2026-03-21,C0033,Joseph Antwi,Ashanti,P008,Office Laptop,Computers,3,6265.06,Akua
+O00520,2026-04-16,C0055,Yaw Antwi,Volta,P002,Mechanical Keyboard,Accessories,1,287.6,Bernard
+O00521,2026-02-27,C0056,Priscilla Boateng,Greater Accra,P005,Webcam,Accessories,1,255.69,Esther
+O00522,2026-05-05,C0150,Samuel Darko,Central,P003,USB-C Hub,Accessories,1,209.5,Gifty
+O00523,2026-05-03,C0177,Efua Agyeman,Ashanti,P010,Mini PC,Computers,1,4601.96,Esther
+O00524,2026-08-26,C0127,Nana Boateng,Volta,P018,Wi-Fi Router,Networking,5,499.01,Bernard
+O00525,2025-09-05,C0005,Daniel Addo,Northern,P012,Standing Desk,Furniture,1,2409.44,David
+O00526,2026-04-18,C0145,Efua Adjei,Ashanti,P004,Laptop Stand,Accessories,2,167.58, Esther 
+O00527,2026-02-22,C0164,Efua Nyarko,Greater Accra,P010,Mini PC,Computers,1,4480.13,Akua
+O00528,2026-05-21,C0131,Kojo Tetteh,Ashanti,P005,Webcam,Accessories,3,248.69,Henry
+O00529,2026-06-10,C0143,Efua Mensah,Western,P010,Mini PC,Computers,1,5118.85,Gifty
+O00530,2025-01-26,C0089,Abena Osei,Central,P004,Laptop Stand,Accessories,3,147.7,David
+O00531,2026-06-14,C0046,Ama Antwi,Eastern,P005,Webcam,Accessories,2,243.36,Felix
+O00532,2025-08-06,C0139,Michael Osei,Eastern,P019,Ethernet Switch,Networking,2,712.14,Akua
+O00533,2026-07-03,C0107,Linda Antwi,Northern,P004,Laptop Stand,Accessories,2,159.06,David
+O00534,2025-09-01,C0177,Efua Agyeman,Ashanti,P015,Bluetooth Speaker,Audio,1,467.27,Henry
+O00535,2025-11-05,C0121,Joseph Owusu,Ashanti,P011,Office Chair,Furniture,1,1305.96,Cynthia
+O00536,2026-03-22,C0002,Efua Nyarko,Greater Accra,P009,Performance Laptop,Computers,1,9505.75,Felix
+O00537,2026-06-07,C0141,Priscilla Tetteh,Central,P005,Webcam,Accessories,1,226.67,Gifty
+O00538,2025-11-12,C0017,Priscilla Tetteh,Greater Accra,P013,Desk Lamp,Furniture,2,182.64,Akua
+O00539,2025-10-30,C0045,Kofi Mensah,Northern,P006,24-inch Monitor,Displays,1,1531.7,Bernard
+O00540,2025-04-09,C0005,Daniel Addo,Northern,P010,Mini PC,Computers,1,4903.09,Felix
+O00541,2025-04-14,C0046,Ama Antwi,Eastern,P015,Bluetooth Speaker,Audio,1,475.19,Esther
+O00542,2026-03-30,C0031,Kofi Nyarko,Greater Accra,P006,24-inch Monitor,Displays,1,1431.08,Akua
+O00543,2026-08-17,C0044,Linda Addo,Western,P019,Ethernet Switch,Networking,4,643.23,Bernard
+O00544,2026-08-17,C0091,Adwoa Antwi,Eastern,P007,27-inch Monitor,Displays,2,2290.97,Akua
+O00545,2026-07-13,C0153,Samuel Boateng,Volta,P020,UPS,Power,1,922.19,David
+O00546,2026-07-03,C0054,Isaac Asare,Central,P009,Performance Laptop,Computers,1,10093.67,Akua
+O00547,2026-05-22,C0053,Grace Appiah,Western,P019,Ethernet Switch,Networking,1,722.03,Cynthia
+O00548,2025-05-23,C0111,Daniel Osei,Greater Accra,P002,Mechanical Keyboard,Accessories,1,270.75,Esther
+O00549,2026-01-23,C0103,Nana Quaye,Ashanti,P011,Office Chair,Furniture,1,1151.57,Cynthia
+O00550,2026-07-05,C0111,Daniel Osei,Greater Accra,P012,Standing Desk,Furniture,1,2416.1,Felix
+O00551,2025-09-28,C0160,Ama Addo,Western,P020,UPS,Power,1,880.97,Akua
+O00552,2025-01-31,C0047,Esi Quaye,Volta,P014,Headset,Audio,2,321.21,Esther
+O00553,2025-04-24,C0066,Kojo Tetteh,Volta,P005,Webcam,Accessories,1,252.45,Esther
+O00554,2025-11-26,C0029,Kofi Mensah,Western,P005,Webcam,Accessories,4,226.25,Gifty
+O00555,2025-08-08,C0159,Abena Adjei,Greater Accra,P004,Laptop Stand,Accessories,4,158.5,Henry
+O00556,2025-03-03,C0041,Mabel Antwi,Volta,P007,27-inch Monitor,Displays,1,2100.98,Esther
+O00557,2025-12-03,C0151,Mabel Tetteh,Ashanti,P006,24-inch Monitor,Displays,3,1446.34,David
+O00558,2026-05-29,C0099,Kojo Antwi,Greater Accra,P016,External SSD 1TB,Storage,4,894.28,Akua
+O00559,2025-10-24,C0056,Priscilla Boateng,Greater Accra,P007,27-inch Monitor,Displays,1,2123.02,Henry
+O00560,2026-05-20,C0175,Adwoa Agyeman,Northern,P010,Mini PC,Computers,2,4611.65,Gifty
+O00561,2026-08-14,C0147,Linda Agyeman,Ashanti,P019,Ethernet Switch,Networking,2,663.41,David
+O00562,2026-03-17,C0031,Kofi Nyarko,Greater Accra,P016,External SSD 1TB,Storage,2,792.34,Bernard
+O00563,2025-06-22,C0011,Kojo Tetteh,Greater Accra,P011,Office Chair,Furniture,1,1274.14,Felix
+O00564,2026-01-12,C0142,Michael Asare,Greater Accra,P018,Wi-Fi Router,Networking,2,480.57,Cynthia
+O00565,2026-01-05,C0004,Samuel Darko,Western,P018,Wi-Fi Router,Networking,4,521.38,Felix
+O00566,2026-01-21,C0177,Efua Agyeman,Ashanti,P005,Webcam,Accessories,2,228.88,Cynthia
+O00567,2026-02-07,C0009,Adwoa Tetteh,Ashanti,P008,Office Laptop,Computers,1,6510.44,Esther
+O00568,2025-01-29,C0048,Yaw Osei,Greater Accra,P009,Performance Laptop,Computers,4,10454.26,Cynthia
+O00569,2026-05-06,C0106,Linda Quaye,Volta,P020,UPS,Power,2,913.32,Gifty
+O00570,2026-05-29,C0066,Kojo Tetteh,Volta,P001,Wireless Mouse,Accessories,1,101.58,David
+O00571,2026-06-07,C0151,Mabel Tetteh,Ashanti,P008,Office Laptop,Computers,1,6216.09,Bernard
+O00572,2026-02-24,C0029,Kofi Mensah,Western,P018,Wi-Fi Router,Networking,5,557.33,Henry
+O00573,2025-12-13,C0043,Abena Quaye,Eastern,P014,Headset,Audio,3,311.81,Bernard
+O00574,2026-02-28,C0141,Priscilla Tetteh,Central,P010,Mini PC,Computers,1,4808.49,Bernard
+O00575,2025-06-04,C0060,Linda Nyarko,Ashanti,P010,Mini PC,Computers,2,5078.87,Esther
+O00576,2025-09-02,C0024,Samuel Amankwah,Ashanti,P010,Mini PC,Computers,,5112.89,Akua
+O00577,2025-11-16,C0134,Daniel Addo,Western,P009,Performance Laptop,Computers,3,10053.5,Esther
+O00578,2025-12-04,C0126,Ama Antwi,Greater Accra,P010,Mini PC,Computers,4,4489.52,Henry
+O00579,2025-12-23,C0040,Linda Antwi,Volta,P016,External SSD 1TB,Storage,4,906.59,Akua
+O00580,2025-12-24,C0152,Mabel Agyeman,Central,P008,Office Laptop,Computers,1,6566.01,Esther
+O00581,2025-03-15,C0010,Ama Adjei,Central,P015,Bluetooth Speaker,Audio,2,465.61,David
+O00582,2026-03-07,C0084,Nana Appiah,Western,P002,Mechanical Keyboard,Accessories,1,278.48,David
+O00583,2026-03-26,C0038,Kofi Owusu,Volta,P003,USB-C Hub,Accessories,4,212.31,Felix
+O00584,2026-07-09,C0096,Mabel Tetteh,Ashanti,P008,Office Laptop,Computers,1,5761.99,Gifty
+O00585,2026-07-21,C0147,Linda Agyeman,Ashanti,P011,Office Chair,Furniture,4,1317.09,David
+O00586,2026-01-12,C0075,Michael Antwi,Greater Accra,P020,UPS,Power,1,845.21,Cynthia
+O00587,2026-08-28,C0067,Esi Quaye,Ashanti,P002,Mechanical Keyboard,Accessories,1,289.67,Felix
+O00588,2025-09-23,C0127,Nana Boateng,Volta,P018,Wi-Fi Router,Networking,3,504.3,Henry
+O00589,2026-02-19,C0110,Samuel Appiah,Eastern,P004,Laptop Stand,Accessories,2,170.92,Esther
+O00590,2026-06-22,C0120,Abena Nyarko,Ashanti,P010,Mini PC,Computers,3,4454.31,Henry
+O00591,2025-08-03,C0042,Akosua Antwi,Northern,P007,27-inch Monitor,Displays,2,2347.52,Cynthia
+O00592,2026-08-03,C0074,Adwoa Appiah,Ashanti,P017,Flash Drive 128GB,Storage,2,153.75,Felix
+O00593,2025-08-25,C0040,Linda Antwi,Volta,P020,UPS,Power,2,917.0,Cynthia
+O00594,2025-02-10,C0145,Efua Adjei,Ashanti,P016,External SSD 1TB,Storage,2,888.04,Akua
+O00595,2025-04-25,C0013,Abena Boateng,Ashanti,P010,Mini PC,Computers,4,4813.99,Akua
+O00596,2025-07-18,C0124,Mabel Nyarko,Greater Accra,P008,Office Laptop,Computers,2,5821.27,Esther
+O00597,2025-06-08,C0096,Mabel Tetteh,Ashanti,P005,Webcam,Accessories,1,230.65,Henry
+O00598,2025-06-19,C0167,Joseph Appiah,Greater Accra,P005,Webcam,Accessories,1,237.59,Henry
+O00599,2025-11-22,C0073,Kwame Boateng,Greater Accra,P006,24-inch Monitor,Displays,1,1528.07,David
+O00600,2026-02-14,C0027,Efua Appiah,Northern,P003,USB-C Hub,Accessories,1,195.88,Felix
+O00601,2025-07-28,C0085,Isaac Osei,Ashanti,P014,Headset,Audio,3,342.05,Cynthia
+O00602,2026-05-15,C0043,Abena Quaye,Eastern,P005,Webcam,Accessories,1,254.26,David
+O00603,2025-10-03,C0029,Kofi Mensah,Western,P002,Mechanical Keyboard,Accessories,2,287.53,Esther
+O00604,2026-03-22,C0046,Ama Antwi,Eastern,P006,24-inch Monitor,Displays,2,1444.92,Cynthia
+O00605,2026-04-29,C0166,Nana Asare,Ashanti,P006,24-inch Monitor,Displays,4,1364.75,Esther
+O00606,2026-08-06,C0070,Daniel Quaye,Eastern,P002,Mechanical Keyboard,Accessories,1,258.89,Esther
+O00607,2026-05-12,C0121,Joseph Owusu,Ashanti,P007,27-inch Monitor,Displays,2,2112.44,Felix
+O00608,2025-10-11,C0022,Priscilla Agyeman,Northern,P004,Laptop Stand,Accessories,1,164.75,Bernard
+O00609,2025-06-29,C0069,Yaw Addo,Greater Accra,P001,Wireless Mouse,Accessories,3,88.77,David
+O00610,2025-01-25,C0167,Joseph Appiah,Greater Accra,P017,Flash Drive 128GB,Storage,1,138.56,Esther
+O00611,2025-06-15,C0019,Esi Owusu,Ashanti,P018,Wi-Fi Router,Networking,2,478.6,David
+O00612,2025-07-09,C0123,Akosua Agyeman,Central,P019,Ethernet Switch,Networking,1,689.59,Bernard
+O00613,2025-05-12,C0042,Akosua Antwi,Northern,P006,24-inch Monitor,Displays,4,1391.94,Felix
+O00614,2025-12-21,C0031,Kofi Nyarko,Greater Accra,P009,Performance Laptop,Computers,1,9162.05,Felix
+O00615,2025-04-04,C0026,Michael Boateng,Greater Accra,P011,Office Chair,Furniture,1,1239.28,Bernard
+O00616,2026-07-21,C0137,Grace Osei,Ashanti,P012,Standing Desk,Furniture,1,2440.02,Esther
+O00617,2025-01-25,C0107,Linda Antwi,Northern,P012,Standing Desk,Furniture,3,2532.66,Cynthia
+O00618,2025-10-22,C0162,Efua Antwi,Ashanti,P008,Office Laptop,Computers,1,6119.93,Esther
+O00619,05/04/2025,C0086,Priscilla Nyarko,Greater Accra,P009,Performance Laptop,Computers,2,9314.19,Esther
+O00620,2025-07-04,C0062,Abena Asare,Central,P010,Mini PC,Computers,2,5049.28,Esther
+O00621,2025-12-17,C0119,Abena Nyarko,Central,P007,27-inch Monitor,Displays,3,2308.68, Gifty 
+O00622,2026-07-30,C0054,Isaac Asare,Central,P010,Mini PC,Computers,1,5106.81,Akua
+O00623,2025-07-09,C0022,Priscilla Agyeman,Northern,P003,USB-C Hub,Accessories,2,222.43,Akua
+O00624,2025-02-08,C0160,Ama Addo,Western,P009,Performance Laptop,Computers,3,10089.17,Gifty
+O00625,2025-03-15,C0025,Kofi Asare,Volta,P018,Wi-Fi Router,Networking,2,508.19,Esther
+O00626,2025-06-12,C0041,Mabel Antwi,Volta,P010,Mini PC,Computers,1,4475.02,Felix
+O00627,2025-11-18,C0172,Samuel Osei,Ashanti,P008,Office Laptop,Computers,1,6262.08,Felix
+O00628,2026-03-31,C0016,Nana Boateng,Ashanti,P008,Office Laptop,Computers,2,6351.02,Gifty
+O00629,2025-01-29,C0040,Linda Antwi,Volta,P001,Wireless Mouse,Accessories,1,100.89,Akua
+O00630,2026-07-24,C0043,Abena Quaye,Eastern,P012,Standing Desk,Furniture,1,2569.11,Gifty
+O00631,2025-10-24,C0049,Grace Amankwah,Eastern,P018,Wi-Fi Router,Networking,2,547.22,Henry
+O00632,2026-03-21,C0176,Linda Adjei,Greater Accra,P014,Headset,Audio,2,304.48,Cynthia
+O00633,2025-10-18,C0093,Efua Adjei,Western,P008,Office Laptop,Computers,1,6084.6,David
+O00634,2025-09-12,C0053,Grace Appiah,Western,P001,Wireless Mouse,Accessories,2,101.94,Gifty
+O00635,2026-07-31,C0011,Kojo Tetteh,Greater Accra,P020,UPS,Power,1,953.04,Esther
+O00636,2025-02-05,C0083,Priscilla Owusu,Ashanti,P017,Flash Drive 128GB,Storage,2,154.25,Gifty
+O00637,2025-11-28,C0163,Nana Addo,Greater Accra,P007,27-inch Monitor,Displays,4,2355.73,David
+O00638,2026-03-17,C0055,Yaw Antwi,Volta,P003,USB-C Hub,Accessories,3,222.22,Cynthia
+O00639,2025-12-02,C0162,Efua Antwi,Ashanti,P008,Office Laptop,Computers,1,6209.11,Henry
+O00640,2025-02-08,C0161,Priscilla Darko,Western,P003,USB-C Hub,Accessories,1,226.27,Esther
+O00641,2026-06-06,C0165,Kwame Tetteh,Volta,P016,External SSD 1TB,Storage,3,849.96,Henry
+O00642,2025-03-15,C0064,Kojo Quaye,Central,P015,Bluetooth Speaker,Audio,5,472.52, Gifty 
+O00643,2025-07-09,C0098,Esi Owusu,Ashanti,P014,Headset,Audio,2,303.4,Akua
+O00644,2026-01-29,C0011,Kojo Tetteh,Greater Accra,P016,External SSD 1TB,Storage,1,850.53,David
+O00645,2025-12-20,C0021,Kojo Quaye,Greater Accra,P009,Performance Laptop,Computers,2,9162.66,Esther
+O00646,2026-04-28,C0060,Linda Nyarko,Ashanti,P012,Standing Desk,Furniture,2,2682.98,David
+O00647,2025-04-16,C0128,Joseph Adjei,Greater Accra,P019,Ethernet Switch,Networking,2,712.23,David
+O00648,2026-07-30,C0032,Kofi Agyeman,Western,P010,Mini PC,Computers,1,4994.63,Cynthia
+O00649,2025-05-15,C0035,Esi Nyarko,Northern,P002,Mechanical Keyboard,Accessories,2,280.3,Felix
+O00650,2025-06-19,C0011,Kojo Tetteh,Greater Accra,P011,Office Chair,Furniture,4,1301.2,Bernard
+O00651,2025-02-14,C0105,Daniel Owusu,Eastern,P015,Bluetooth Speaker,Audio,1,423.19,Bernard
+O00652,2026-07-05,C0142,Michael Asare,Greater Accra,P018,Wi-Fi Router,Networking,1,554.66,Henry
+O00653,2025-07-01,C0132,Nana Asare,Eastern,P010,Mini PC,Computers,3,5062.54,Felix
+O00654,2025-09-03,C0129,Yaw Asare,Greater Accra,P010,Mini PC,Computers,2,4935.17,Akua
+O00655,2025-10-10,C0122,Efua Owusu,Eastern,P009,Performance Laptop,Computers,5,9183.13,Cynthia
+O00656,2025-12-28,C0073,Kwame Boateng,Greater Accra,P008,Office Laptop,Computers,2,6223.84,Akua
+O00657,2025-02-10,C0174,Samuel Amankwah,Northern,P004,Laptop Stand,Accessories,1,156.11,Bernard
+O00658,2026-03-27,C0113,Nana Appiah,Greater Accra,P003,USB-C Hub,Accessories,1,193.6,Esther
+O00659,2026-07-15,C0134,Daniel Addo,Western,P011,Office Chair,Furniture,2,1233.46,Gifty
+O00660,2025-08-23,C0160,Ama Addo,Western,P004,Laptop Stand,Accessories,4,162.29,Henry
+O00661,2025-07-01,C0119,Abena Nyarko,Central,P019,Ethernet Switch,Networking,1,645.96,Bernard
+O00662,2025-11-16,C0164,Efua Nyarko,Greater Accra,P020,UPS,Power,4,935.46,Henry
+O00663,2025-10-04,C0120,Abena Nyarko,Ashanti,P016,External SSD 1TB,Storage,1,837.25,Cynthia
+O00664,2026-05-08,C0173,Grace Owusu,Central,P005,Webcam,Accessories,1,227.33,Cynthia
+O00665,2025-06-19,C0151,Mabel Tetteh,Ashanti,P010,Mini PC,Computers,4,4961.87,Cynthia
+O00666,2025-08-25,C0089,Abena Osei,Central,P001,Wireless Mouse,Accessories,3,100.7,Esther
+O00667,2025-03-11,C0176,Linda Adjei,greater accra,P010,Mini PC,Computers,1,5114.03,Gifty
+O00668,2026-06-22,C0111,Daniel Osei,Greater Accra,P014,Headset,Audio,2,336.68,Bernard
+O00669,2025-01-19,C0042,Akosua Antwi,Northern,P019,Ethernet Switch,Networking,,652.27,Cynthia
+O00670,06/07/2025,C0127,Nana Boateng,Volta,P017,Flash Drive 128GB,Storage,1,154.04,Felix
+O00671,2025-12-24,C0014,Grace Agyeman,Western,P015,Bluetooth Speaker,Audio,1,482.63,Felix
+O00672,2025-04-29,C0125,Yaw Agyeman,Greater Accra,P016,External SSD 1TB,Storage,2,845.04,Felix
+O00673,2025-08-19,C0103,Nana Quaye,Ashanti,P009,Performance Laptop,Computers,5,10337.86,Henry
+O00674,2025-07-04,C0070,Daniel Quaye,Eastern,P005,Webcam,Accessories,1,250.47,Bernard
+O00675,2025-12-26,C0059,Akosua Owusu,Ashanti,P013,Desk Lamp,Furniture,-1,184.4,Akua
+O00676,2025-03-10,C0171,Linda Osei,Greater Accra,P006,24-inch Monitor,Displays,1,1520.3,Bernard
+O00677,2025-04-24,C0159, ABENA ADJEI ,Greater Accra,P002,Mechanical Keyboard,Accessories,3,296.96,Felix
+O00678,2026-02-07,C0088,Kofi Owusu,Ashanti,P013,Desk Lamp,Furniture,1,184.72,Henry
+O00679,2025-10-25,C0156,Kojo Agyeman,Western,P017,Flash Drive 128GB,Storage,1,157.16,Akua
+O00680,2025-03-20,C0145,Efua Adjei,Ashanti,P003,USB-C Hub,Accessories,2,220.46,Felix
+O00681,2025-09-09,C0080,Esi Adjei,Ashanti,P003,USB-C Hub,Accessories,2,199.56,Gifty
+O00682,2026-07-11,C0103,Nana Quaye,Ashanti,P006,24-inch Monitor,Displays,1,1376.98,Esther
+O00683,2026-03-09,C0079,Nana Owusu,Central,P020,UPS,Power,1,923.84,David
+O00684,2025-09-21,C0120,Abena Nyarko,Ashanti,P015,Bluetooth Speaker,Audio,2,429.3,Bernard
+O00685,2026-04-10,C0078,Priscilla Asare,Eastern,P006,24-inch Monitor,Displays,1,1336.27,Gifty
+O00686,2026-03-14,C0157, EFUA APPIAH ,Western,P007,27-inch Monitor,Displays,5,2177.26,Henry
+O00687,2026-03-14,C0119,Abena Nyarko,Central,P018,Wi-Fi Router,Networking,-1,512.79,Henry
+O00688,2026-01-03,C0142,Michael Asare,Greater Accra,P001,Wireless Mouse,Accessories,1,89.94,Bernard
+O00689,2026-05-12,C0082,Akosua Nyarko,Western,P016,External SSD 1TB,Storage,2,864.53,Felix
+O00690,2025-09-17,C0179,Ama Osei,Western,P018,Wi-Fi Router,Networking,4,537.34,Cynthia
+O00691,2026-02-09,C0131,Kojo Tetteh,Ashanti,P020,UPS,Power,1,860.76,Felix
+O00692,2026-06-23,C0077,Kofi Boateng,Central,P009,Performance Laptop,Computers,1,10329.8,Henry
+O00693,2025-05-18,C0133,Kojo Darko,Northern,P011,Office Chair,Furniture,4,1182.46,Felix
+O00694,2025-10-19,C0121,Joseph Owusu,ashanti,P002,Mechanical Keyboard,Accessories,3,277.17,Felix
+O00695,2025-06-14,C0169,Kwame Owusu,Ashanti,P016,External SSD 1TB,Storage,2,890.49,Esther
+O00696,2025-01-31,C0102,Ama Quaye,Central,P008,Office Laptop,Computers,1,6237.09,David
+O00697,2026-03-31,C0053,Grace Appiah,Western,P018,Wi-Fi Router,Networking,3,494.14,Cynthia
+O00698,2026-01-05,C0083,Priscilla Owusu,Ashanti,P019,Ethernet Switch,Networking,2,633.32,Felix
+O00699,2025-01-05,C0079,Nana Owusu,Central,P020,UPS,Power,1,832.76,Akua
+O00700,2025-02-02,C0090,Mabel Darko,Volta,P018,Wi-Fi Router,Networking,2,509.62,Felix
+O00701,2025-01-28,C0021,Kojo Quaye,Greater Accra,P003,USB-C Hub,Accessories,1,216.75,Gifty
+O00702,2026-06-20,C0158,Linda Osei,Central,P020,UPS,Power,2,878.34,Henry
+O00703,2025-05-10,C0157,Efua Appiah,Western,P008,Office Laptop,Computers,2,6507.36,Gifty
+O00704,2025-05-12,C0009,Adwoa Tetteh,Ashanti,P004,Laptop Stand,Accessories,4,161.49,Akua
+O00705,2026-07-13,C0023,Kofi Adjei,Eastern,P019,Ethernet Switch,Networking,1,681.37,Cynthia
+O00706,2025-11-21,C0171,Linda Osei,Greater Accra,P006,24-inch Monitor,Displays,4,1477.24,David
+O00707,2025-12-04,C0084,Nana Appiah,Western,P003,USB-C Hub,Accessories,2,216.57,Esther
+O00708,2025-06-23,C0167,Joseph Appiah,Greater Accra,P007,27-inch Monitor,Displays,1,2037.69,Esther
+O00709,2026-08-17,C0167,Joseph Appiah,Greater Accra,P006,24-inch Monitor,Displays,1,1390.1,Esther
+O00710,2025-06-03,C0102,Ama Quaye,Central,P005,Webcam,Accessories,1,250.19,Esther
+O00711,2025-04-24,C0162,Efua Antwi,Ashanti,P008,Office Laptop,Computers,1,6337.65,Felix
+O00712,2026-06-03,C0131,Kojo Tetteh,Ashanti,P008,Office Laptop,Computers,4,6050.84,Gifty
+O00713,2025-01-12,C0001,Grace Tetteh,Ashanti,P006,24-inch Monitor,Displays,5,1430.02,Akua
+O00714,2025-06-01,C0120,Abena Nyarko,Ashanti,P018,Wi-Fi Router,Networking,2,513.22,Akua
+O00715,2025-04-09,C0176,Linda Adjei,Greater Accra,P018,Wi-Fi Router,Networking,1,510.41,Esther
+O00716,2026-01-31,C0029,Kofi Mensah,Western,P013,Desk Lamp,Furniture,2,166.22,Bernard
+O00717,2025-06-04,C0138,Joseph Darko,Greater Accra,P020,UPS,Power,4,959.55,Cynthia
+O00718,2025-09-16,C0090,Mabel Darko,Volta,P003,USB-C Hub,Accessories,1,218.6,Cynthia
+O00719,2025-12-17,C0140,Abena Antwi,Greater Accra,P009,Performance Laptop,Computers,1,10137.62,David
+O00720,2025-07-14,C0116,Yaw Antwi,Greater Accra,P006,24-inch Monitor,Displays,1,1499.1,David
+O00721,2025-02-14,C0031,Kofi Nyarko,Greater Accra,P015,Bluetooth Speaker,Audio,1,445.56,David
+O00722,2025-08-06,C0006,Adwoa Boateng,Eastern,P008,Office Laptop,Computers,1,6226.3,Bernard
+O00723,2025-04-28,C0047,Esi Quaye,Volta,P004,Laptop Stand,Accessories,1,150.23,David
+O00724,2025-05-19,C0011,Kojo Tetteh,Greater Accra,P018,Wi-Fi Router,Networking,1,530.95,Esther
+O00725,2025-05-25,C0033,Joseph Antwi,Ashanti,P006,24-inch Monitor,Displays,1,1530.38,Esther
+O00726,2026-02-03,C0111,Daniel Osei,Greater Accra,P008,Office Laptop,Computers,2,6381.93,Cynthia
+O00727,2025-10-20,C0176,Linda Adjei,Greater Accra,P001,Wireless Mouse,Accessories,1,99.32,David
+O00728,2025-05-06,C0169,Kwame Owusu,Ashanti,P008,Office Laptop,Computers,1,5761.01,Cynthia
+O00729,2026-04-23,C0033,Joseph Antwi,Ashanti,P003,USB-C Hub,Accessories,1,201.28,Akua
+O00730,2026-04-05,C0070,Daniel Quaye,Eastern,P015,Bluetooth Speaker,Audio,2,481.29,Esther
+O00731,2025-02-06,C0123,Akosua Agyeman,Central,P006,24-inch Monitor,Displays,1,1388.64,David
+O00732,2025-09-04,C0013,Abena Boateng,Ashanti,P008,Office Laptop,Computers,1,6347.67,Cynthia
+O00733,2025-08-10,C0114,Efua Adjei,Central,P019,Ethernet Switch,Networking,2,732.07,Henry
+O00734,2026-07-13,C0144,Kofi Quaye,Central,P014,Headset,Audio,4,329.69,David
+O00735,2025-03-01,C0010,Ama Adjei,Central,P017,Flash Drive 128GB,Storage,2,145.03,Gifty
+O00736,2025-12-21,C0097,Yaw Owusu,Greater Accra,P020,UPS,Power,2,960.81,Akua
+O00737,2025-10-24,C0162,Efua Antwi,Ashanti,P003,USB-C Hub,Accessories,1,224.96,Felix
+O00738,2025-05-09,C0036,Kofi Tetteh,Northern,P013,Desk Lamp,Furniture,1,171.93,David
+O00739,2025-12-08,C0103,Nana Quaye,Ashanti,P001,Wireless Mouse,Accessories,2,94.4,David
+O00740,2025-06-05,C0178,Linda Addo,Central,P003,USB-C Hub,Accessories,1,219.96,Henry
+O00741,2025-03-18,C0133,Kojo Darko,Northern,P002,Mechanical Keyboard,Accessories,4,295.34,Felix
+O00742,2026-03-21,C0024,Samuel Amankwah,Ashanti,P009,Performance Laptop,Computers,3,9792.95,Bernard
+O00743,2025-09-24,C0133,Kojo Darko,Northern,P016,External SSD 1TB,Storage,4,803.17,Henry
+O00744,2025-02-01,C0175,Adwoa Agyeman,Northern,P006,24-inch Monitor,Displays,2,1344.57,David
+O00745,2026-01-06,C0122,Efua Owusu,Eastern,P003,USB-C Hub,Accessories,1,212.31,Bernard
+O00746,2026-08-30,C0097,Yaw Owusu,Greater Accra,P008,Office Laptop,Computers,1,5784.28,Gifty
+O00747,2025-07-08,C0133,Kojo Darko,Northern,P009,Performance Laptop,Computers,4,10247.83,Gifty
+O00748,2025-11-11,C0005,Daniel Addo,Northern,P009,Performance Laptop,Computers,3,9651.88,David
+O00749,2026-03-12,C0003,Kojo Adjei,central,P004,Laptop Stand,Accessories,2,148.89,Gifty
+O00750,2025-06-11,C0078,Priscilla Asare,Eastern,P014,Headset,Audio,1,,Cynthia
+O00751,2025-11-09,C0031,Kofi Nyarko,Greater Accra,P012,Standing Desk,Furniture,4,2490.34,Akua
+O00752,2025-04-11,C0024,Samuel Amankwah,Ashanti,P011,Office Chair,Furniture,1,1188.8,Bernard
+O00753,2025-12-13,C0127,Nana Boateng,Volta,P017,Flash Drive 128GB,Storage,3,148.11,Felix
+O00754,2025-05-11,C0033,Joseph Antwi,Ashanti,P011,Office Chair,Furniture,2,1317.0,Esther
+O00755,2026-04-16,C0046,Ama Antwi,Eastern,P010,Mini PC,Computers,2,4882.74,Henry
+O00756,2025-03-21,C0075,Michael Antwi,greater accra,P004,Laptop Stand,Accessories,2,160.53,Akua
+O00757,2025-08-11,C0086,Priscilla Nyarko,Greater Accra,P013,Desk Lamp,Furniture,3,193.68,Esther
+O00758,2025-09-03,C0175,Adwoa Agyeman,Northern,P008,Office Laptop,Computers,2,6289.09,Felix
+O00759,2026-08-31,C0051,Kofi Appiah,Greater Accra,P008,Office Laptop,Computers,2,5837.88,Cynthia
+O00760,2025-04-28,C0164,Efua Nyarko,Greater Accra,P013,Desk Lamp,Furniture,1,186.79,David
+O00761,2025-03-13,C0102,Ama Quaye,Central,P005,Webcam,Accessories,1,250.46,Akua
+O00762,2025-06-08,C0040,Linda Antwi,Volta,P014,Headset,Audio,4,321.89,Bernard
+O00763,2026-05-16,C0094,Kwame Antwi,Ashanti,P007,27-inch Monitor,Displays,1,2350.53,Esther
+O00764,2026-05-02,C0024,Samuel Amankwah,Ashanti,P008,Office Laptop,Computers,1,6419.74,Bernard
+O00765,2025-06-07,C0093,Efua Adjei,Western,P018,Wi-Fi Router,Networking,1,509.57,Gifty
+O00766,2026-06-14,C0085,Isaac Osei,Ashanti,P007,27-inch Monitor,Displays,3,2280.55,Akua
+O00767,2025-07-02,C0012,Adwoa Quaye,Ashanti,P006,24-inch Monitor,Displays,2,1501.13,Bernard
+O00768,2025-11-18,C0025,Kofi Asare,Volta,P002,Mechanical Keyboard,Accessories,2,293.96,Akua
+O00769,2026-05-15,C0005,Daniel Addo,Northern,P010,Mini PC,Computers,1,4701.79,Cynthia
+O00770,2025-10-09,C0065,Linda Nyarko,Western,P007,27-inch Monitor,Displays,2,2245.71,Gifty
+O00771,2026-05-27,C0177,Efua Agyeman,Ashanti,P007,27-inch Monitor,Displays,1,2106.4,Cynthia
+O00772,2026-04-04,C0116,Yaw Antwi,Greater Accra,P018,Wi-Fi Router,Networking,1,509.45,Esther
+O00773,2025-11-25,C0017,Priscilla Tetteh,Greater Accra,P007,27-inch Monitor,Displays,3,2331.95,David
+O00774,2025-04-17,C0170,Akosua Nyarko,Greater Accra,P010,Mini PC,Computers,2,4657.51,Esther
+O00775,2026-02-11,C0068,Linda Osei,Greater Accra,P007,27-inch Monitor,Displays,1,2196.57,Akua
+O00776,2026-02-24,C0010,Ama Adjei,Central,P004,Laptop Stand,Accessories,2,160.61,David
+O00777,2025-02-23,C0064,Kojo Quaye,Central,P010,Mini PC,Computers,3,4476.06,Cynthia
+O00778,2025-10-25,C0050,Abena Tetteh,Northern,P010,Mini PC,Computers,3,4645.22,Esther
+O00779,2026-04-02,C0105,Daniel Owusu,Eastern,P001,Wireless Mouse,Accessories,3,97.87,Esther
+O00780,2025-09-21,C0087,Michael Darko,Ashanti,P010,Mini PC,Computers,2,4983.34,Felix
+O00781,2026-06-08,C0037,Esi Appiah,Greater Accra,P010,Mini PC,Computers,1,4647.07,Akua
+O00782,2026-05-29,C0011,Kojo Tetteh,Greater Accra,P013,Desk Lamp,Furniture,3,168.99,Akua
+O00783,2025-09-15,C0151,Mabel Tetteh,Ashanti,P005,Webcam,Accessories,1,225.0,Cynthia
+O00784,2025-01-17,C0165,Kwame Tetteh,Volta,P005,Webcam,Accessories,2,233.66,Gifty
+O00785,2025-09-24,C0040,Linda Antwi,Volta,P011,Office Chair,Furniture,1,1156.17,Esther
+O00786,2025-03-12,C0068,Linda Osei,Greater Accra,P020,UPS,Power,4,842.14,Akua
+O00787,2025-04-01,C0073,Kwame Boateng,Greater Accra,P002,Mechanical Keyboard,Accessories,3,270.74,Bernard
+O00788,2025-11-30,C0116,Yaw Antwi,Greater Accra,P003,USB-C Hub,Accessories,1,225.43,Henry
+O00789,2025-09-07,C0050,Abena Tetteh,Northern,P017,Flash Drive 128GB,Storage,1,140.77,Felix
+O00790,2026-07-06,C0108,Kofi Boateng,Greater Accra,P014,Headset,Audio,4,308.94,Gifty
+O00791,2025-05-12,C0075,Michael Antwi,Greater Accra,P010,Mini PC,Computers,1,4881.87,Akua
+O00792,2026-02-17,C0082,Akosua Nyarko,Western,P006,24-inch Monitor,Displays,1,1443.0,Esther
+O00793,2025-06-21,C0088,Kofi Owusu,Ashanti,P008,Office Laptop,Computers,1,6135.03,Esther
+O00794,2026-05-26,C0152,Mabel Agyeman,Central,P002,Mechanical Keyboard,Accessories,1,296.7,Henry
+O00795,2025-12-24,C0180,Linda Tetteh,Greater Accra,P001,Wireless Mouse,Accessories,1,88.72,Cynthia
+O00796,2025-02-21,C0164,Efua Nyarko,Greater Accra,P007,27-inch Monitor,Displays,1,2126.79,Bernard
+O00797,2025-03-07,C0039,Kojo Asare,Ashanti,P001,Wireless Mouse,Accessories,1,93.41,David
+O00798,2026-05-17,C0157,Efua Appiah,Western,P014,Headset,Audio,1,294.87,Akua
+O00799,2025-08-08,C0161,Priscilla Darko,Western,P009,Performance Laptop,Computers,1,10024.47,Henry
+O00800,2026-02-06,C0040,Linda Antwi,Volta,P010,Mini PC,Computers,3,4974.32,Felix
+O00801,2025-09-28,C0160,Ama Addo,Western,P008,Office Laptop,Computers,2,6164.89,Gifty
+O00802,2026-07-17,C0114,Efua Adjei,Central,P007,27-inch Monitor,Displays,3,2048.67,Henry
+O00803,2025-06-10,C0131,Kojo Tetteh,Ashanti,P003,USB-C Hub,Accessories,2,201.09,Henry
+O00804,2026-03-11,C0019,Esi Owusu,Ashanti,P006,24-inch Monitor,Displays,1,1389.54,Esther
+O00805,2026-04-11,C0073,Kwame Boateng,Greater Accra,P006,24-inch Monitor,Displays,2,1373.87,Felix
+O00806,2025-08-20,C0005,Daniel Addo,Northern,P020,UPS,Power,4,895.06,Felix
+O00807,2026-07-18,C0062,Abena Asare,Central,P017,Flash Drive 128GB,Storage,1,156.57,Akua
+O00808,2026-08-26,C0061,Kojo Adjei,Greater Accra,P013,Desk Lamp,Furniture,1,193.68,Cynthia
+O00809,2025-06-03,C0008,Adwoa Addo,Greater Accra,P001,Wireless Mouse,Accessories,1,99.91,Akua
+O00810,2026-05-18,C0038,Kofi Owusu,Volta,P005,Webcam,Accessories,2,232.29,Henry
+O00811,2026-02-14,C0002,Efua Nyarko,Greater Accra,P003,USB-C Hub,Accessories,1,212.79,Esther
+O00812,2025-06-04,C0079,Nana Owusu,Central,P015,Bluetooth Speaker,Audio,1,419.57,Akua
+O00813,2025-12-01,C0046,Ama Antwi,Eastern,P005,Webcam,Accessories,4,225.39,Felix
+O00814,2026-05-06,C0056,Priscilla Boateng,Greater Accra,P008,Office Laptop,Computers,1,6000.94,Henry
+O00815,2026-05-30,C0021,Kojo Quaye,Greater Accra,P007,27-inch Monitor,Displays,2,2227.34,Felix
+O00816,2026-08-20,C0040,Linda Antwi,Volta,P014,Headset,Audio,1,306.87,Henry
+O00817,2026-05-18,C0021,Kojo Quaye,Greater Accra,P014,Headset,Audio,1,320.33,Cynthia
+O00818,2025-04-27,C0046,Ama Antwi,Eastern,P001,Wireless Mouse,Accessories,3,92.84,Felix
+O00819,2025-09-29,C0144,Kofi Quaye,Central,P013,Desk Lamp,Furniture,1,173.83,Henry
+O00820,2026-02-02,C0033,Joseph Antwi,Ashanti,P015,Bluetooth Speaker,Audio,1,485.78,Bernard
+O00821,2025-11-18,C0093,Efua Adjei,Western,P002,Mechanical Keyboard,Accessories,4,260.46,Bernard
+O00822,2026-03-31,C0001,Grace Tetteh,Ashanti,P013,Desk Lamp,Furniture,1,192.96,Henry
+O00823,2025-09-09,C0012,Adwoa Quaye,Ashanti,P006,24-inch Monitor,Displays,2,1414.88,Cynthia
+O00824,2025-10-06,C0032,Kofi Agyeman,Western,P006,24-inch Monitor,Displays,1,1497.09,Gifty
+O00825,2026-08-02,C0139,Michael Osei,Eastern,P001,Wireless Mouse,Accessories,1,101.85,Gifty
+O00826,2025-01-27,C0018,Kojo Osei,Central,P014,Headset,Audio,3,322.23,Cynthia
+O00827,2026-02-01,C0074,Adwoa Appiah,Ashanti,P012,Standing Desk,Furniture,2,2555.77,David
+O00828,2026-05-02,C0022,Priscilla Agyeman,Northern,P018,Wi-Fi Router,Networking,2,490.2,Cynthia
+O00829,2025-06-28,C0134,Daniel Addo,Western,P001,Wireless Mouse,Accessories,2,100.23,Gifty
+O00830,19/02/2025,C0045,Kofi Mensah,Northern,P010,Mini PC,Computers,1,4973.24,Gifty
+O00831,2026-05-21,C0039,Kojo Asare,Ashanti,P010,Mini PC,Computers,1,4665.97,Akua
+O00832,2025-08-24,C0121,Joseph Owusu,Ashanti,P020,UPS,Power,4,854.1,Gifty
+O00833,2026-08-26,C0051,Kofi Appiah,Greater Accra,P010,Mini PC,Computers,1,4539.29,Henry
+O00834,2026-03-18,C0123,Akosua Agyeman,Central,P004,Laptop Stand,Accessories,1,167.95,Akua
+O00835,2026-08-26,C0078,Priscilla Asare,Eastern,P005,Webcam,Accessories,4,250.13,Henry
+O00836,2026-01-02,C0163,Nana Addo,Greater Accra,P004,Laptop Stand,Accessories,1,152.83,Bernard
+O00837,2026-03-15,C0155,Daniel Addo,Ashanti,P018,Wi-Fi Router,Networking,1,535.12,Cynthia
+O00838,2025-05-03,C0156,Kojo Agyeman,Western,P003,USB-C Hub,Accessories,2,200.77,Henry
+O00839,2026-05-01,C0036,Kofi Tetteh,Northern,P020,UPS,Power,1,909.27,Cynthia
+O00840,2025-12-18,C0133,Kojo Darko,Northern,P003,USB-C Hub,Accessories,2,202.79,Akua
+O00841,2025-02-03,C0016,Nana Boateng,Ashanti,P010,Mini PC,Computers,1,4739.01,Gifty
+O00842,2025-10-10,C0178,Linda Addo,Central,P008,Office Laptop,Computers,5,5925.76,Henry
+O00843,2025-10-26,C0089,Abena Osei,Central,P011,Office Chair,Furniture,1,1206.74,Bernard
+O00844,2026-07-23,C0004,Samuel Darko,Western,P020,UPS,Power,1,966.92,Akua
+O00845,2025-12-18,C0127,Nana Boateng,Volta,P020,UPS,Power,1,865.57,Gifty
+O00846,2025-12-11,C0121,Joseph Owusu,Ashanti,P008,Office Laptop,Computers,,5921.43,Henry
+O00847,2025-11-29,C0087,Michael Darko,Ashanti,P010,Mini PC,Computers,1,4674.44,David
+O00848,2026-08-06,C0166,Nana Asare,Ashanti,P006,24-inch Monitor,Displays,1,1486.03,Gifty
+O00849,2025-07-04,C0100, MABEL ASARE ,Ashanti,P009,Performance Laptop,Computers,1,9858.14,Gifty
+O00850,2026-02-08,C0057,Joseph Osei,Eastern,P015,Bluetooth Speaker,Audio,1,426.16,Akua
+O00851,2025-05-12,C0138,Joseph Darko,Greater Accra,P015,Bluetooth Speaker,Audio,1,480.59,Esther
+O00852,2026-06-27,C0016,Nana Boateng,Ashanti,P017,Flash Drive 128GB,Storage,1,145.37,Esther
+O00853,2025-08-12,C0151,Mabel Tetteh,Ashanti,P009,Performance Laptop,Computers,4,9319.07,Akua
+O00854,2026-06-11,C0154,Priscilla Mensah,Ashanti,P006,24-inch Monitor,Displays,1,1488.28,Akua
+O00855,2025-09-05,C0010,Ama Adjei,Central,P016,External SSD 1TB,Storage,1,913.7,Akua
+O00856,2025-01-16,C0128,Joseph Adjei,Greater Accra,P012,Standing Desk,Furniture,3,2701.2,Akua
+O00857,2025-12-24,C0174,Samuel Amankwah,Northern,P011,Office Chair,Furniture,1,1337.85,Cynthia
+O00858,2026-03-05,C0101,Abena Agyeman,Eastern,P013,Desk Lamp,Furniture,,171.37,David
+O00859,2026-05-30,C0085,Isaac Osei,Ashanti,P009,Performance Laptop,Computers,1,9604.39,Akua
+O00860,2025-08-23,C0049,Grace Amankwah,Eastern,P013,Desk Lamp,Furniture,1,170.0,Esther
+O00861,2026-07-12,C0095,Linda Antwi,Northern,P014,Headset,Audio,1,296.21,Felix
+O00862,2026-06-28,C0050,Abena Tetteh,Northern,P007,27-inch Monitor,Displays,2,2071.8,Cynthia
+O00863,16/07/2025,C0118,Esi Boateng,Western,P010,Mini PC,Computers,2,,Cynthia
+O00864,2026-04-23,C0141,Priscilla Tetteh,Central,P001,Wireless Mouse,Accessories,1,92.27,Cynthia
+O00865,2025-11-02,C0172,Samuel Osei,Ashanti,P007,27-inch Monitor,Displays,3,2076.29,Esther
+O00866,2025-08-12,C0157,Efua Appiah,Western,P009,Performance Laptop,Computers,2,10531.46,Henry
+O00867,2025-06-13,C0165,Kwame Tetteh,Volta,P006,24-inch Monitor,Displays,1,1345.63,Cynthia
+O00868,2026-05-03,C0033,Joseph Antwi,Ashanti,P010,Mini PC,Computers,1,4424.37,Henry
+O00869,2025-05-11,C0023,Kofi Adjei,Eastern,P004,Laptop Stand,Accessories,2,148.66,Henry
+O00870,2025-07-15,C0080,Esi Adjei,Ashanti,P010,Mini PC,Computers,2,4768.44,Felix
+O00871,2025-05-05,C0035,Esi Nyarko,Northern,P018,Wi-Fi Router,Networking,2,513.05, Gifty 
+O00872,2026-08-14,C0108,Kofi Boateng,Greater Accra,P016,External SSD 1TB,Storage,1,797.96,David
+O00873,2025-04-16,C0130,Ama Tetteh,Greater Accra,P009,Performance Laptop,Computers,3,9876.11,David
+O00874,2025-11-19,C0095,Linda Antwi,Northern,P006,24-inch Monitor,Displays,3,1423.76,Bernard
+O00875,2025-08-04,C0015,Adwoa Adjei,Western,P013,Desk Lamp,Furniture,1,168.44, Gifty 
+O00876,2026-01-25,C0154,Priscilla Mensah,Ashanti,P001,Wireless Mouse,Accessories,1,102.3,Bernard
+O00877,2026-01-11,C0017,Priscilla Tetteh,Greater Accra,P015,Bluetooth Speaker,Audio,1,430.23,Gifty
+O00878,2025-05-17,C0096,Mabel Tetteh,Ashanti,P002,Mechanical Keyboard,Accessories,1,297.44,Akua
+O00879,2025-12-21,C0064,Kojo Quaye,Central,P013,Desk Lamp,Furniture,2,178.14,Felix
+O00880,2025-04-19,C0150,Samuel Darko,Central,P013,Desk Lamp,Furniture,1,185.67,Bernard
+O00881,2026-01-12,C0067,Esi Quaye,Ashanti,P015,Bluetooth Speaker,Audio,2,436.67,Henry
+O00882,2026-04-19,C0137,Grace Osei,Ashanti,P012,Standing Desk,Furniture,4,2642.42,Akua
+O00883,2026-01-11,C0081,Samuel Osei,Central,P017,Flash Drive 128GB,Storage,1,138.21,Akua
+O00884,2026-05-03,C0085,Isaac Osei,Ashanti,P013,Desk Lamp,Furniture,1,174.76,Esther
+O00885,2025-12-15,C0067,Esi Quaye,Ashanti,P020,UPS,Power,5,866.39,Esther
+O00886,2025-11-02,C0107,Linda Antwi,Northern,P008,Office Laptop,Computers,4,6631.93,Gifty
+O00887,2026-01-10,C0118,Esi Boateng,Western,P017,Flash Drive 128GB,Storage,1,155.58,Felix
+O00888,2025-12-17,C0085,Isaac Osei,Ashanti,P004,Laptop Stand,Accessories,2,162.75,Henry
+O00889,2026-03-11,C0148,Daniel Boateng,Eastern,P015,Bluetooth Speaker,Audio,3,451.44,Esther
+O00890,2026-04-16,C0023,Kofi Adjei,Eastern,P009,Performance Laptop,Computers,1,9235.86,David
+O00891,2025-05-02,C0053,Grace Appiah,Western,P010,Mini PC,Computers,1,4935.87,Henry
+O00892,2025-09-13,C0037,Esi Appiah,Greater Accra,P003,USB-C Hub,Accessories,2,199.38,Gifty
+O00893,2026-01-31,C0083,Priscilla Owusu,Ashanti,P010,Mini PC,Computers,1,4968.44,Esther
+O00894,2026-03-17,C0124,Mabel Nyarko,Greater Accra,P017,Flash Drive 128GB,Storage,2,143.39,Cynthia
+O00895,2025-07-18,C0119,Abena Nyarko,Central,P001,Wireless Mouse,Accessories,1,96.14,Akua
+O00896,2025-01-20,C0003,Kojo Adjei,Central,P010,Mini PC,Computers,5,4950.23,Akua
+O00897,2026-07-30,C0179,Ama Osei,Western,P004,Laptop Stand,Accessories,3,168.71,Akua
+O00898,2025-10-23,C0132,Nana Asare,Eastern,P013,Desk Lamp,Furniture,1,167.78,Felix
+O00899,2025-08-17,C0040,Linda Antwi,Volta,P017,Flash Drive 128GB,Storage,2,153.37,Akua
+O00900,2025-06-03,C0040,Linda Antwi,Volta,P002,Mechanical Keyboard,Accessories,2,299.01,Felix
+O00901,2025-06-23,C0040,Linda Antwi,Volta,P017,Flash Drive 128GB,Storage,2,149.52,Esther
+O00902,2026-08-15,C0091,Adwoa Antwi,Eastern,P015,Bluetooth Speaker,Audio,4,468.92,Esther
+O00903,2026-04-08,C0001,Grace Tetteh,Ashanti,P020,UPS,Power,1,893.18,David
+O00904,2025-09-02,C0008,Adwoa Addo,Greater Accra,P006,24-inch Monitor,Displays,1,1392.0,David
+O00905,2026-04-29,C0048,Yaw Osei,Greater Accra,P014,Headset,Audio,3,319.79,David
+O00906,2026-08-08,C0046,Ama Antwi,Eastern,P014,Headset,Audio,3,317.01,David
+O00907,2026-07-27,C0091,Adwoa Antwi,Eastern,P001,Wireless Mouse,Accessories,1,98.91,Gifty
+O00908,2025-01-17,C0071,Priscilla Asare,Western,P011,Office Chair,Furniture,3,1342.02,David
+O00909,2025-02-23,C0088,Kofi Owusu,Ashanti,P007,27-inch Monitor,Displays,1,2306.01,Akua
+O00910,2026-01-05,C0138,Joseph Darko,Greater Accra,P007,27-inch Monitor,Displays,1,2266.67,Akua
+O00911,2025-11-06,C0120,Abena Nyarko,Ashanti,P007,27-inch Monitor,Displays,4,2314.6,Gifty
+O00912,2026-02-19,C0120,Abena Nyarko,Ashanti,P012,Standing Desk,Furniture,1,2756.07,Gifty
+O00913,08/05/2026,C0060,Linda Nyarko,Ashanti,P008,Office Laptop,Computers,1,6691.71,Felix
+O00914,2025-08-12,C0148,Daniel Boateng,Eastern,P007,27-inch Monitor,Displays,1,2273.41, Henry 
+O00915,2026-08-03,C0113,Nana Appiah,Greater Accra,P009,Performance Laptop,Computers,2,9588.79,Esther
+O00916,2026-05-16,C0077,Kofi Boateng,Central,P011,Office Chair,Furniture,1,1153.4,Cynthia
+O00917,2025-01-30,C0092,Daniel Tetteh,Ashanti,P018,Wi-Fi Router,Networking,1,550.11,Felix
+O00918,2025-11-30,C0098,Esi Owusu,Ashanti,P006,24-inch Monitor,Displays,1,1539.29,Cynthia
+O00919,2025-03-05,C0168,Yaw Tetteh,Greater Accra,P009,Performance Laptop,Computers,3,9238.91,Cynthia
+O00920,2026-04-15,C0080,Esi Adjei,Ashanti,P007,27-inch Monitor,Displays,5,2107.44,Felix
+O00921,2026-03-19,C0130,Ama Tetteh,Greater Accra,P020,UPS,Power,3,899.99,Akua
+O00922,2026-01-06,C0169,Kwame Owusu,Ashanti,P010,Mini PC,Computers,3,4915.37,Esther
+O00923,2025-08-07,C0093,Efua Adjei,Western,P005,Webcam,Accessories,2,253.49,David
+O00924,2025-08-11,C0011,Kojo Tetteh,Greater Accra,P010,Mini PC,Computers,1,4472.37,Felix
+O00925,2026-06-18,C0063,Efua Agyeman,Greater Accra,P014,Headset,Audio,2,345.32,Bernard
+O00926,2026-03-29,C0172,Samuel Osei,Ashanti,P015,Bluetooth Speaker,Audio,2,470.05,Gifty
+O00927,2026-06-02,C0176,Linda Adjei,Greater Accra,P009,Performance Laptop,Computers,1,9275.71,Felix
+O00928,2026-02-10,C0119,Abena Nyarko,Central,P012,Standing Desk,Furniture,2,2661.17,Esther
+O00929,2026-05-09,C0076,Abena Tetteh,Northern,P014,Headset,Audio,,301.03,Henry
+O00930,2026-08-04,C0093,Efua Adjei,Western,P012,Standing Desk,Furniture,4,2760.96,Cynthia
+O00931,2025-09-05,C0091,Adwoa Antwi,Eastern,P009,Performance Laptop,Computers,1,9937.2,Esther
+O00932,2025-09-25,C0178,Linda Addo,Central,P003,USB-C Hub,Accessories,1,195.85,Akua
+O00933,2025-07-31,C0145,Efua Adjei,Ashanti,P002,Mechanical Keyboard,Accessories,1,257.9,Henry
+O00934,2026-02-19,C0077,Kofi Boateng,Central,P012,Standing Desk,Furniture,1,2533.29,Henry
+O00935,2025-07-26,C0051,Kofi Appiah,Greater Accra,P012,Standing Desk,Furniture,2,2754.9,Akua
+O00936,2025-05-02,C0071,Priscilla Asare,Western,P005,Webcam,Accessories,1,243.41,Cynthia
+O00937,2026-05-09,C0063,Efua Agyeman,Greater Accra,P007,27-inch Monitor,Displays,1,2288.07,Cynthia
+O00938,2025-02-09,C0133,Kojo Darko,Northern,P013,Desk Lamp,Furniture,1,177.71,David
+O00939,2026-03-26,C0145,Efua Adjei,Ashanti,P019,Ethernet Switch,Networking,1,679.22,Esther
+O00940,2025-01-11,C0078,Priscilla Asare,Eastern,P014,Headset,Audio,1,321.34,David
+O00941,2026-01-08,C0058,Adwoa Adjei,Eastern,P011,Office Chair,Furniture,2,1195.28,Henry
+O00942,2026-02-02,C0001,Grace Tetteh,Ashanti,P016,External SSD 1TB,Storage,1,874.45,Cynthia
+O00943,2025-04-28,C0034,Ama Osei,Greater Accra,P010,Mini PC,Computers,1,4919.22,Esther
+O00944,2026-08-09,C0177,Efua Agyeman,Ashanti,P004,Laptop Stand,Accessories,1,149.37,Esther
+O00945,2026-04-19,C0115,Daniel Quaye,Northern,P002,Mechanical Keyboard,Accessories,3,266.07,Felix
+O00946,2025-10-07,C0043,Abena Quaye,Eastern,P001,Wireless Mouse,Accessories,1,95.23,Akua
+O00947,2026-06-30,C0047,Esi Quaye,Volta,P005,Webcam,Accessories,2,240.99,David
+O00948,2026-08-13,C0038,Kofi Owusu,Volta,P020,UPS,Power,1,924.99,Bernard
+O00949,2025-08-09,C0071,Priscilla Asare,Western,P002,Mechanical Keyboard,Accessories,1,280.68,Henry
+O00950,2025-12-07,C0130,Ama Tetteh,Greater Accra,P020,UPS,Power,2,917.23,Henry
+O00951,2026-04-08,C0178,Linda Addo,Central,P005,Webcam,Accessories,4,257.03,Cynthia
+O00952,2025-10-09,C0058,Adwoa Adjei,Eastern,P007,27-inch Monitor,Displays,5,2123.85,Bernard
+O00953,2025-01-02,C0073,Kwame Boateng,Greater Accra,P016,External SSD 1TB,Storage,1,906.3,Felix
+O00954,2025-03-24,C0108,Kofi Boateng,Greater Accra,P005,Webcam,Accessories,1,221.34,Gifty
+O00955,2026-08-07,C0144,Kofi Quaye,Central,P011,Office Chair,Furniture,1,1307.95,Cynthia
+O00956,2025-05-10,C0060,Linda Nyarko,Ashanti,P006,24-inch Monitor,Displays,1,1538.54,Felix
+O00957,2026-04-18,C0092,Daniel Tetteh,Ashanti,P008,Office Laptop,Computers,2,5899.03,Felix
+O00958,2026-04-10,C0143,Efua Mensah,Western,P013,Desk Lamp,Furniture,1,191.86,Gifty
+O00959,2026-05-27,C0125,Yaw Agyeman,Greater Accra,P010,Mini PC,Computers,1,4790.86,Esther
+O00960,2025-02-13,C0035,Esi Nyarko,Northern,P006,24-inch Monitor,Displays,2,1471.13,Cynthia
+O00961,2025-08-15,C0172,Samuel Osei,Ashanti,P007,27-inch Monitor,Displays,2,2194.88,David
+O00962,2025-02-21,C0097,Yaw Owusu,Greater Accra,P015,Bluetooth Speaker,Audio,1,448.63,Felix
+O00963,2025-01-03,C0106,Linda Quaye,Volta,P001,Wireless Mouse,Accessories,1,,Henry
+O00964,2025-07-30,C0096,Mabel Tetteh,Ashanti,P001,Wireless Mouse,Accessories,1,94.09,Esther
+O00965,2025-04-07,C0058,Adwoa Adjei,Eastern,P016,External SSD 1TB,Storage,1,791.8,Akua
+O00966,2026-05-01,C0162, EFUA ANTWI ,Ashanti,P010,Mini PC,Computers,2,4687.32,David
+O00967,2025-03-15,C0023,Kofi Adjei,Eastern,P015,Bluetooth Speaker,Audio,1,453.29,Felix
+O00968,2025-09-06,C0074,Adwoa Appiah,Ashanti,P001,Wireless Mouse,Accessories,1,98.0,Gifty
+O00969,2025-11-05,C0002,Efua Nyarko,Greater Accra,P006,24-inch Monitor,Displays,1,1501.1,Akua
+O00970,2026-02-05,C0059,Akosua Owusu,Ashanti,P019,Ethernet Switch,Networking,1,627.9,Akua
+O00971,2025-03-08,C0122,Efua Owusu,Eastern,P017,Flash Drive 128GB,Storage,1,149.95,Felix
+O00972,2026-01-06,C0005, DANIEL ADDO ,Northern,P013,Desk Lamp,Furniture,1,184.32,Gifty
+O00973,2026-06-10,C0111,Daniel Osei,Greater Accra,P008,Office Laptop,Computers,1,5770.21,Felix
+O00974,2026-07-13,C0155,Daniel Addo,Ashanti,P011,Office Chair,Furniture,1,1222.66,Cynthia
+O00975,2026-04-01,C0114,Efua Adjei,Central,P004,Laptop Stand,Accessories,3,155.51,Akua
+O00976,2025-12-27,C0020,Abena Darko,Ashanti,P013,Desk Lamp,Furniture,1,181.59,Felix
+O00977,2025-03-09,C0006,Adwoa Boateng,Eastern,P001,Wireless Mouse,Accessories,1,97.49,Bernard
+O00978,2026-07-04,C0137,Grace Osei,Ashanti,P007,27-inch Monitor,Displays,2,2294.59,Gifty
+O00979,2026-04-17,C0085,Isaac Osei,Ashanti,P015,Bluetooth Speaker,Audio,1,476.91,Akua
+O00980,2025-12-15,C0091,Adwoa Antwi,Eastern,P011,Office Chair,Furniture,2,1278.46,David
+O00981,2026-08-17,C0011,Kojo Tetteh,Greater Accra,P007,27-inch Monitor,Displays,1,2154.38,Esther
+O00982,2025-01-28,C0135,Adwoa Adjei,Ashanti,P002,Mechanical Keyboard,Accessories,2,293.79,Akua
+O00983,2026-06-10,C0125,Yaw Agyeman,Greater Accra,P017,Flash Drive 128GB,Storage,1,155.23,Akua
+O00984,2025-03-17,C0155,Daniel Addo,Ashanti,P006,24-inch Monitor,Displays,1,1407.08,Bernard
+O00985,2026-04-24,C0170,Akosua Nyarko,Greater Accra,P013,Desk Lamp,Furniture,2,169.57,Gifty
+O00986,2026-06-05,C0009,Adwoa Tetteh,Ashanti,P019,Ethernet Switch,Networking,1,627.81,Gifty
+O00987,2025-08-14,C0176,Linda Adjei,Greater Accra,P006,24-inch Monitor,Displays,4,1434.54,Gifty
+O00988,2026-08-21,C0118,Esi Boateng,Western,P013,Desk Lamp,Furniture,1,168.43,Esther
+O00989,2025-05-25,C0049,Grace Amankwah,Eastern,P013,Desk Lamp,Furniture,2,181.79,David
+O00990,2025-10-22,C0176,Linda Adjei,greater accra,P009,Performance Laptop,Computers,2,9060.0,Esther
+O00991,2025-06-26,C0164,Efua Nyarko,Greater Accra,P002,Mechanical Keyboard,Accessories,1,300.71,David
+O00992,2026-06-19,C0052,Esi Osei,Greater Accra,P011,Office Chair,Furniture,5,1307.06,Henry
+O00993,2025-10-16,C0028,Mabel Amankwah,Volta,P016,External SSD 1TB,Storage,4,843.21,Akua
+O00994,2026-02-14,C0044,Linda Addo,Western,P004,Laptop Stand,Accessories,1,158.21,Bernard
+O00995,2025-08-10,C0090,Mabel Darko,Volta,P019,Ethernet Switch,Networking,2,709.48,Cynthia
+O00996,2025-02-09,C0010,Ama Adjei,Central,P018,Wi-Fi Router,Networking,1,480.48,Gifty
+O00997,2026-01-28,C0076,Abena Tetteh,Northern,P006,24-inch Monitor,Displays,3,1347.67,Akua
+O00998,2025-03-09,C0059,Akosua Owusu,Ashanti,P007,27-inch Monitor,Displays,1,2191.06,David
+O00999,2025-04-09,C0071,Priscilla Asare,Western,P020,UPS,Power,1,925.76,David
+O01000,2026-01-18,C0074,Adwoa Appiah,Ashanti,P006,24-inch Monitor,Displays,2,1334.95,Akua
+O01001,2026-06-24,C0056, PRISCILLA BOATENG ,Greater Accra,P006,24-inch Monitor,Displays,2,1381.35,Henry
+O01002,2026-08-15,C0081,Samuel Osei,Central,P004,Laptop Stand,Accessories,3,169.43,Akua
+O01003,2026-08-19,C0096,Mabel Tetteh,Ashanti,P007,27-inch Monitor,Displays,1,2151.13,Henry
+O01004,2026-08-16,C0073,Kwame Boateng,Greater Accra,P006,24-inch Monitor,Displays,2,1556.07,Henry
+O01005,2026-04-17,C0020,Abena Darko,Ashanti,P007,27-inch Monitor,Displays,1,2121.26,Esther
+O01006,2025-06-14,C0137,Grace Osei,Ashanti,P003,USB-C Hub,Accessories,1,193.62,Felix
+O01007,2026-01-09,C0088,Kofi Owusu,Ashanti,P007,27-inch Monitor,Displays,4,2177.93,Felix
+O01008,2025-10-06,C0062,Abena Asare,central,P006,24-inch Monitor,Displays,2,1526.2,David
+O01009,2026-08-31,C0119,Abena Nyarko,Central,P020,UPS,Power,1,916.83,Cynthia
+O01010,2025-07-11,C0147,Linda Agyeman,Ashanti,P012,Standing Desk,Furniture,1,2624.59,Henry
+O01011,2026-08-02,C0168,Yaw Tetteh,Greater Accra,P015,Bluetooth Speaker,Audio,1,444.37,Gifty
+O01012,2026-06-14,C0152,Mabel Agyeman,Central,P008,Office Laptop,Computers,1,6484.45,Akua
+O01013,2025-12-05,C0065,Linda Nyarko,Western,P012,Standing Desk,Furniture,2,2502.5,Henry
+O01014,2025-02-16,C0133,Kojo Darko,Northern,P011,Office Chair,Furniture,2,1339.37,Akua
+O01015,2026-06-07,C0161,Priscilla Darko,Western,P005,Webcam,Accessories,1,238.7,David
+O01016,2026-07-09,C0080,Esi Adjei,Ashanti,P006,24-inch Monitor,Displays,1,1528.98,Gifty
+O01017,2026-03-03,C0049,Grace Amankwah,Eastern,P015,Bluetooth Speaker,Audio,5,474.32,Henry
+O01018,2026-06-17,C0003,Kojo Adjei,Central,P007,27-inch Monitor,Displays,4,2069.36,Akua
+O01019,2025-08-24,C0131,Kojo Tetteh,Ashanti,P007,27-inch Monitor,Displays,1,2353.03,Akua
+O01020,2025-08-26,C0053,Grace Appiah,Western,P020,UPS,Power,2,828.37,Felix
+O01021,2025-08-05,C0140,Abena Antwi,Greater Accra,P007,27-inch Monitor,Displays,1,2260.87,David
+O01022,2026-07-31,C0048,Yaw Osei,Greater Accra,P008,Office Laptop,Computers,2,5922.13,Akua
+O01023,2025-05-05,C0052,Esi Osei,Greater Accra,P015,Bluetooth Speaker,Audio,2,419.9,Gifty
+O01024,2025-12-14,C0162,Efua Antwi,Ashanti,P008,Office Laptop,Computers,6,6599.78,Akua
+O01025,2026-08-23,C0084,Nana Appiah,Western,P010,Mini PC,Computers,1,4735.29,Felix
+O01026,2025-12-23,C0086,Priscilla Nyarko,Greater Accra,P017,Flash Drive 128GB,Storage,1,159.95,David
+O01027,2025-03-28,C0093,Efua Adjei,Western,P016,External SSD 1TB,Storage,1,869.51,Akua
+O01028,2025-10-17,C0044,Linda Addo,Western,P008,Office Laptop,Computers,2,6678.48,Esther
+O01029,2026-08-24,C0029, KOFI MENSAH ,Western,P010,Mini PC,Computers,1,5164.82,Felix
+O01030,2025-03-20,C0080,Esi Adjei,Ashanti,P009,Performance Laptop,Computers,3,10203.94,Felix
+O01031,2025-07-05,C0009,Adwoa Tetteh,Ashanti,P019,Ethernet Switch,Networking,1,663.07,Felix
+O01032,2026-08-03,C0157,Efua Appiah,Western,P007,27-inch Monitor,Displays,2,2362.98,Gifty
+O01033,2025-09-10,C0137,Grace Osei,Ashanti,P007,27-inch Monitor,Displays,1,2164.22,David
+O01034,2026-01-23,C0166,Nana Asare,Ashanti,P015,Bluetooth Speaker,Audio,1,,Akua
+O01035,21/05/2026,C0091,Adwoa Antwi,Eastern,P009,Performance Laptop,Computers,1,9521.41,Henry
+O01036,2025-09-05,C0100,Mabel Asare,Ashanti,P009,Performance Laptop,Computers,2,9032.89,Gifty
+O01037,2025-03-21,C0143,Efua Mensah,Western,P004,Laptop Stand,Accessories,3,149.39,Bernard
+O01038,2025-12-22,C0105,Daniel Owusu,Eastern,P004,Laptop Stand,Accessories,3,158.95,Felix
+O01039,2026-06-23,C0086,Priscilla Nyarko,Greater Accra,P020,UPS,Power,1,953.33,David
+O01040,2025-12-13,C0081,Samuel Osei,Central,P014,Headset,Audio,3,337.88,Akua
+O01041,2026-08-08,C0137,Grace Osei,Ashanti,P004,Laptop Stand,Accessories,1,153.22,Felix
+O01042,2025-06-07,C0126,Ama Antwi,Greater Accra,P009,Performance Laptop,Computers,1,10012.16,David
+O01043,2026-02-16,C0180,Linda Tetteh,Greater Accra,P006,24-inch Monitor,Displays,1,1406.23,Gifty
+O01044,2025-11-05,C0171,Linda Osei,Greater Accra,P010,Mini PC,Computers,2,4716.56,Bernard
+O01045,2025-04-18,C0012,Adwoa Quaye,Ashanti,P004,Laptop Stand,Accessories,1,171.92,Esther
+O01046,2025-05-27,C0077,Kofi Boateng,Central,P007,27-inch Monitor,Displays,1,2065.97,Felix
+O01047,2025-10-15,C0074,Adwoa Appiah,Ashanti,P008,Office Laptop,Computers,1,6682.77,David
+O01048,2026-02-17,C0043,Abena Quaye,Eastern,P008,Office Laptop,Computers,3,6254.45,David
+O01049,2025-11-24,C0111,Daniel Osei,Greater Accra,P010,Mini PC,Computers,1,4745.77,Cynthia
+O01050,2026-01-28,C0020,Abena Darko,Ashanti,P007,27-inch Monitor,Displays,2,2236.74,Henry
+O01051,2025-12-17,C0009,Adwoa Tetteh,Ashanti,P006,24-inch Monitor,Displays,1,1438.92,Esther
+O01052,2026-03-04,C0086,Priscilla Nyarko,Greater Accra,P003,USB-C Hub,Accessories,2,214.58,Akua
+O01053,2025-07-08,C0021,Kojo Quaye,Greater Accra,P011,Office Chair,Furniture,2,1158.81,Gifty
+O01054,2025-06-04,C0174,Samuel Amankwah,Northern,P013,Desk Lamp,Furniture,1,166.99,Cynthia
+O01055,2025-02-10,C0036,Kofi Tetteh,Northern,P004,Laptop Stand,Accessories,2,157.89,Henry
+O01056,2025-02-02,C0118,Esi Boateng,Western,P020,UPS,Power,5,831.76,David
+O01057,2025-11-03,C0033,Joseph Antwi,Ashanti,P009,Performance Laptop,Computers,1,9185.26,Felix
+O01058,2026-08-24,C0040,Linda Antwi,Volta,P010,Mini PC,Computers,4,4778.81,Esther
+O01059,2025-03-02,C0114,Efua Adjei,Central,P018,Wi-Fi Router,Networking,1,519.96,David
+O01060,2025-10-21,C0022, PRISCILLA AGYEMAN ,Northern,P001,Wireless Mouse,Accessories,2,97.4,Cynthia
+O01061,2025-05-07,C0057,Joseph Osei,Eastern,P017,Flash Drive 128GB,Storage,2,151.04,Bernard
+O01062,2026-03-05,C0023,Kofi Adjei,Eastern,P012,Standing Desk,Furniture,3,2475.16,Esther
+O01063,2025-02-10,C0036,Kofi Tetteh,Northern,P011,Office Chair,Furniture,1,1175.37,Gifty
+O01064,2025-05-25,C0046,Ama Antwi,Eastern,P003,USB-C Hub,Accessories,1,202.66,Gifty
+O01065,2025-07-12,C0078,Priscilla Asare,Eastern,P007,27-inch Monitor,Displays,1,2032.28,Esther
+O01066,2025-06-13,C0049,Grace Amankwah,Eastern,P010,Mini PC,Computers,1,5056.18,Esther
+O01067,2025-09-23,C0140,Abena Antwi,Greater Accra,P010,Mini PC,Computers,3,4449.6,Henry
+O01068,2025-01-12,C0025,Kofi Asare,Volta,P002,Mechanical Keyboard,Accessories,1,299.75,Cynthia
+O01069,2026-06-02,C0004,Samuel Darko,Western,P017,Flash Drive 128GB,Storage,5,158.13,David
+O01070,2025-07-21,C0004,Samuel Darko,Western,P010,Mini PC,Computers,2,4544.37,Felix
+O01071,2025-08-31,C0127,Nana Boateng,Volta,P019,Ethernet Switch,Networking,3,627.41,David
+O01072,2025-03-26,C0138,Joseph Darko,Greater Accra,P010,Mini PC,Computers,1,4501.35,Esther
+O01073,2025-06-10,C0119,Abena Nyarko,Central,P020,UPS,Power,1,915.93,Esther
+O01074,2025-11-29,C0082,Akosua Nyarko,Western,P007,27-inch Monitor,Displays,1,2146.79,Esther
+O01075,2025-10-16,C0100,Mabel Asare,Ashanti,P010,Mini PC,Computers,2,5154.53,Esther
+O01076,2025-02-11,C0099,Kojo Antwi,Greater Accra,P002,Mechanical Keyboard,Accessories,3,270.02,Gifty
+O01077,2025-10-31,C0121,Joseph Owusu,Ashanti,P006,24-inch Monitor,Displays,1,1371.76,Felix
+O01078,2026-01-16,C0145,Efua Adjei,Ashanti,P020,UPS,Power,2,907.45,Cynthia
+O01079,2026-07-07,C0111,Daniel Osei,Greater Accra,P006,24-inch Monitor,Displays,1,1380.78,Gifty
+O01080,2026-03-13,C0159,Abena Adjei,Greater Accra,P013,Desk Lamp,Furniture,5,168.8,Felix
+O01081,2025-03-18,C0055,Yaw Antwi,Volta,P003,USB-C Hub,Accessories,1,216.34,Henry
+O01082,2026-03-23,C0120,Abena Nyarko,Ashanti,P006,24-inch Monitor,Displays,2,1409.74,David
+O01083,2025-09-27,C0153,Samuel Boateng,Volta,P015,Bluetooth Speaker,Audio,2,456.95,Akua
+O01084,2025-06-28,C0145,Efua Adjei,Ashanti,P019,Ethernet Switch,Networking,1,731.24,Esther
+O01085,2025-05-20,C0144,Kofi Quaye,Central,P014,Headset,Audio,1,325.9,Bernard
+O01086,2025-10-21,C0074,Adwoa Appiah,Ashanti,P018,Wi-Fi Router,Networking,1,559.35,Bernard
+O01087,2025-10-13,C0127,Nana Boateng,Volta,P007,27-inch Monitor,Displays,-1,2075.89,Gifty
+O01088,2025-03-08,C0035,Esi Nyarko,Northern,P007,27-inch Monitor,Displays,2,2093.94,David
+O01089,2025-12-01,C0111,Daniel Osei,Greater Accra,P016,External SSD 1TB,Storage,1,883.08,Gifty
+O01090,2026-02-27,C0145,Efua Adjei,Ashanti,P006,24-inch Monitor,Displays,1,1409.98,Bernard
+O01091,2025-12-28,C0112,Linda Quaye,Greater Accra,P012,Standing Desk,Furniture,3,2454.06,Esther
+O01092,2025-10-18,C0112,Linda Quaye,Greater Accra,P010,Mini PC,Computers,4,5000.89,Felix
+O01093,2026-02-27,C0138,Joseph Darko,Greater Accra,P019,Ethernet Switch,Networking,1,696.22,Bernard
+O01094,2026-07-14,C0140,Abena Antwi,Greater Accra,P007,27-inch Monitor,Displays,1,2089.84,Felix
+O01095,2025-12-26,C0172,Samuel Osei,Ashanti,P004,Laptop Stand,Accessories,2,160.41,Cynthia
+O01096,2025-02-28,C0180,Linda Tetteh,Greater Accra,P008,Office Laptop,Computers,4,6640.86,Cynthia
+O01097,2025-07-17,C0157,Efua Appiah,Western,P015,Bluetooth Speaker,Audio,1,481.15,Gifty
+O01098,2025-04-09,C0148,Daniel Boateng,Eastern,P014,Headset,Audio,5,319.73,Felix
+O01099,2025-08-31,C0081,Samuel Osei,Central,P017,Flash Drive 128GB,Storage,1,150.14,Bernard
+O01100,2025-07-16,C0077,Kofi Boateng,Central,P001,Wireless Mouse,Accessories,1,94.77,Akua
+O01101,2026-03-01,C0029,Kofi Mensah,Western,P013,Desk Lamp,Furniture,5,186.59,David
+O01102,2025-03-19,C0109,Grace Amankwah,Greater Accra,P014,Headset,Audio,5,325.34,Cynthia
+O01103,2025-06-26,C0085,Isaac Osei,Ashanti,P014,Headset,Audio,2,319.76,Akua
+O01104,2026-02-14,C0049,Grace Amankwah,Eastern,P006,24-inch Monitor,Displays,3,1553.56,Henry
+O01105,2025-08-23,C0118,Esi Boateng,Western,P009,Performance Laptop,Computers,2,9880.42,Esther
+O01106,2025-02-17,C0107,Linda Antwi,Northern,P003,USB-C Hub,Accessories,1,217.26,Gifty
+O01107,2025-03-08,C0122,Efua Owusu,Eastern,P001,Wireless Mouse,Accessories,,102.05,Akua
+O01108,2025-09-05,C0159,Abena Adjei,Greater Accra,P008,Office Laptop,Computers,1,5918.24,Bernard
+O01109,2026-02-25,C0157,Efua Appiah,Western,P013,Desk Lamp,Furniture,1,188.48,Cynthia
+O01110,2026-03-12,C0111,Daniel Osei,Greater Accra,P006,24-inch Monitor,Displays,1,1345.1,David
+O01111,2025-07-06,C0070,Daniel Quaye,Eastern,P004,Laptop Stand,Accessories,1,166.87,Henry
+O01112,2025-11-05,C0027,Efua Appiah,Northern,P014,Headset,Audio,5,296.2,Akua
+O01113,2025-12-29,C0154,Priscilla Mensah,Ashanti,P007,27-inch Monitor,Displays,1,2150.18,David
+O01114,2025-02-21,C0095,Linda Antwi,Northern,P004,Laptop Stand,Accessories,1,147.27,Felix
+O01115,2026-07-16,C0030,Mabel Amankwah,Eastern,P006,24-inch Monitor,Displays,1,1405.35,Akua
+O01116,2026-07-11,C0153,Samuel Boateng,Volta,P019,Ethernet Switch,Networking,1,653.94,David
+O01117,2025-08-13,C0044,Linda Addo,Western,P016,External SSD 1TB,Storage,3,816.32,Felix
+O01118,2026-01-01,C0026,Michael Boateng,Greater Accra,P015,Bluetooth Speaker,Audio,2,473.78,Cynthia
+O01119,2025-10-20,C0056,Priscilla Boateng,Greater Accra,P015,Bluetooth Speaker,Audio,5,465.08,Henry
+O01120,2025-05-16,C0131,Kojo Tetteh,Ashanti,P001,Wireless Mouse,Accessories,1,93.83,Akua
+O01121,2025-11-11,C0058,Adwoa Adjei,Eastern,P019,Ethernet Switch,Networking,1,684.31,Felix
+O01122,2025-07-26,C0104,Kwame Owusu,Ashanti,P008,Office Laptop,Computers,1,5876.76,David
+O01123,2025-02-01,C0037,Esi Appiah,Greater Accra,P002,Mechanical Keyboard,Accessories,5,260.0,Gifty
+O01124,2025-12-14,C0091,Adwoa Antwi,Eastern,P011,Office Chair,Furniture,1,1164.64,Cynthia
+O01125,2025-06-07,C0059,Akosua Owusu,Ashanti,P010,Mini PC,Computers,1,4797.48,Cynthia
+O01126,2025-05-01,C0069,Yaw Addo,Greater Accra,P011,Office Chair,Furniture,2,1238.38,Bernard
+O01127,2025-06-21,C0056,Priscilla Boateng,Greater Accra,P017,Flash Drive 128GB,Storage,3,154.7,Cynthia
+O01128,2025-10-03,C0028,Mabel Amankwah,Volta,P012,Standing Desk,Furniture,2,2747.69,Bernard
+O01129,2026-05-21,C0172,Samuel Osei,Ashanti,P010,Mini PC,Computers,1,4988.86,Gifty
+O01130,2025-06-08,C0027,Efua Appiah,Northern,P016,External SSD 1TB,Storage,1,903.76,Henry
+O01131,2025-06-05,C0152,Mabel Agyeman,Central,P001,Wireless Mouse,Accessories,2,96.09,Henry
+O01132,2025-01-17,C0044,Linda Addo,Western,P002,Mechanical Keyboard,Accessories,1,301.73,Akua
+O01133,2025-07-19,C0045,Kofi Mensah,Northern,P001,Wireless Mouse,Accessories,2,99.0,Esther
+O01134,2025-10-23,C0022,Priscilla Agyeman,Northern,P004,Laptop Stand,Accessories,4,166.89,Felix
+O01135,2026-08-08,C0145,Efua Adjei,Ashanti,P013,Desk Lamp,Furniture,3,166.76,Esther
+O01136,2025-02-05,C0120,Abena Nyarko,Ashanti,P020,UPS,Power,1,869.59,Cynthia
+O01137,2025-11-29,C0153,Samuel Boateng,Volta,P017,Flash Drive 128GB,Storage,5,139.25,Cynthia
+O01138,2026-01-30,C0052,Esi Osei,Greater Accra,P012,Standing Desk,Furniture,3,2452.35,Bernard
+O01139,2025-06-18,C0087,Michael Darko,Ashanti,P008,Office Laptop,Computers,2,6254.26,Esther
+O01140,2025-07-24,C0060,Linda Nyarko,Ashanti,P017,Flash Drive 128GB,Storage,2,142.81,Henry
+O01141,2025-11-24,C0153,Samuel Boateng,Volta,P008,Office Laptop,Computers,4,6123.74,Esther
+O01142,2025-11-11,C0050,Abena Tetteh,Northern,P005,Webcam,Accessories,1,256.29,Bernard
+O01143,2026-02-22,C0128,Joseph Adjei,Greater Accra,P019,Ethernet Switch,Networking,1,732.57,Felix
+O01144,2025-11-19,C0020,Abena Darko,Ashanti,P007,27-inch Monitor,Displays,2,2077.11,Gifty
+O01145,2026-02-09,C0119,Abena Nyarko,Central,P014,Headset,Audio,1,345.17,Henry
+O01146,2025-03-11,C0141,Priscilla Tetteh,Central,P015,Bluetooth Speaker,Audio,3,478.9,Felix
+O01147,2025-01-16,C0021,Kojo Quaye,Greater Accra,P019,Ethernet Switch,Networking,1,647.52,Gifty
+O01148,2025-03-05,C0152,Mabel Agyeman,Central,P015,Bluetooth Speaker,Audio,2,484.58,Gifty
+O01149,2025-12-29,C0093,Efua Adjei,Western,P004,Laptop Stand,Accessories,5,153.91,Bernard
+O01150,2026-04-02,C0179,Ama Osei,Western,P003,USB-C Hub,Accessories,3,224.76,Felix
+O01151,2026-04-22,C0037,Esi Appiah,Greater Accra,P004,Laptop Stand,Accessories,1,166.68,Esther
+O01152,2025-01-01,C0172,Samuel Osei,Ashanti,P007,27-inch Monitor,Displays,2,,Felix
+O01153,2025-11-03,C0057,Joseph Osei,Eastern,P003,USB-C Hub,Accessories,3,210.15,David
+O01154,2026-02-25,C0122,Efua Owusu,Eastern,P008,Office Laptop,Computers,4,6547.95,Felix
+O01155,2025-01-13,C0115,Daniel Quaye,Northern,P007,27-inch Monitor,Displays,1,2274.09,Henry
+O01156,2025-05-24,C0136,Isaac Tetteh,Greater Accra,P020,UPS,Power,2,843.21,Gifty
+O01157,2025-02-02,C0062,Abena Asare,Central,P019,Ethernet Switch,Networking,2,681.8,Bernard
+O01158,2025-11-14,C0179,Ama Osei,Western,P011,Office Chair,Furniture,3,1185.12,David
+O01159,2026-06-11,C0031,Kofi Nyarko,Greater Accra,P012,Standing Desk,Furniture,3,2569.9,Gifty
+O01160,2025-02-15,C0138,Joseph Darko,Greater Accra,P006,24-inch Monitor,Displays,2,1438.29,Henry
+O01161,2026-01-01,C0066,Kojo Tetteh,Volta,P011,Office Chair,Furniture,1,1342.41,Felix
+O01162,2025-04-29,C0154,Priscilla Mensah,Ashanti,P020,UPS,Power,4,925.39,Gifty
+O01163,2025-08-26,C0084,Nana Appiah,Western,P013,Desk Lamp,Furniture,2,180.57,Gifty
+O01164,2026-02-04,C0153,Samuel Boateng,Volta,P008,Office Laptop,Computers,1,6581.86,David
+O01165,2025-02-06,C0180,Linda Tetteh,Greater Accra,P012,Standing Desk,Furniture,1,2559.53,David
+O01166,2025-08-19,C0159,Abena Adjei,Greater Accra,P007,27-inch Monitor,Displays,1,2355.9,David
+O01167,2026-08-23,C0075,Michael Antwi,Greater Accra,P009,Performance Laptop,Computers,5,10566.14,Bernard
+O01168,2025-12-26,C0136,Isaac Tetteh,greater accra,P007,27-inch Monitor,Displays,1,2038.76,Henry
+O01169,2026-05-20,C0141,Priscilla Tetteh,Central,P002,Mechanical Keyboard,Accessories,2,258.12,Henry
+O01170,2025-04-09,C0116,Yaw Antwi,Greater Accra,P016,External SSD 1TB,Storage,2,840.14,Henry
+O01171,2025-07-26,C0174,Samuel Amankwah,Northern,P009,Performance Laptop,Computers,1,9605.79,Felix
+O01172,2025-08-15,C0078,Priscilla Asare,Eastern,P007,27-inch Monitor,Displays,2,2079.98,Esther
+O01173,2025-06-15,C0097,Yaw Owusu,Greater Accra,P013,Desk Lamp,Furniture,2,165.69,Esther
+O01174,2026-01-23,C0055,Yaw Antwi,Volta,P006,24-inch Monitor,Displays,3,1444.39,Bernard
+O01175,2025-06-02,C0111,Daniel Osei,Greater Accra,P008,Office Laptop,Computers,5,5843.07,Henry
+O01176,2025-12-12,C0147,Linda Agyeman,Ashanti,P020,UPS,Power,1,912.64,Cynthia
+O01177,2026-07-04,C0168,Yaw Tetteh,Greater Accra,P008,Office Laptop,Computers,1,6501.2,Akua
+O01178,2025-09-23,C0164,Efua Nyarko,Greater Accra,P015,Bluetooth Speaker,Audio,1,438.1,Cynthia
+O01179,2025-11-13,C0007,Efua Antwi,Northern,P005,Webcam,Accessories,5,223.78,Henry
+O01180,2025-01-05,C0178,Linda Addo,Central,P010,Mini PC,Computers,2,4483.07,Gifty
+O01181,2025-09-07,C0128,Joseph Adjei,Greater Accra,P004,Laptop Stand,Accessories,3,158.61,Esther
+O01182,2026-07-14,C0058,Adwoa Adjei,Eastern,P013,Desk Lamp,Furniture,4,187.01,Cynthia
+O01183,2026-02-04,C0117,Kofi Osei,Eastern,P001,Wireless Mouse,Accessories,5,101.77,Cynthia
+O01184,2025-01-21,C0021,Kojo Quaye,Greater Accra,P006,24-inch Monitor,Displays,1,1560.39,Gifty
+O01185,2025-10-13,C0114,Efua Adjei,Central,P014,Headset,Audio,1,320.46,Gifty
+O01186,2026-01-08,C0080,Esi Adjei,Ashanti,P006,24-inch Monitor,Displays,5,1533.34,Cynthia
+O01187,2025-08-23,C0061,Kojo Adjei,Greater Accra,P007,27-inch Monitor,Displays,3,2157.1,Henry
+O01188,2026-03-30,C0063,Efua Agyeman,Greater Accra,P005,Webcam,Accessories,1,251.83,Henry
+O01189,2026-08-20,C0157,Efua Appiah,Western,P014,Headset,Audio,2,311.83,Bernard
+O01190,2025-03-10,C0133,Kojo Darko,Northern,P020,UPS,Power,3,931.46,Bernard
+O01191,2025-11-11,C0062,Abena Asare,Central,P010,Mini PC,Computers,1,4655.58,Esther
+O01192,2025-03-21,C0088,Kofi Owusu,Ashanti,P008,Office Laptop,Computers,1,6006.21,Henry
+O01193,2025-08-15,C0105,Daniel Owusu,Eastern,P009,Performance Laptop,Computers,2,10326.61,Akua
+O01194,2025-01-23,C0082,Akosua Nyarko,Western,P008,Office Laptop,Computers,2,6258.47,Cynthia
+O01195,2025-07-31,C0058,Adwoa Adjei,Eastern,P016,External SSD 1TB,Storage,1,881.09,Felix
+O01196,2026-03-08,C0040,Linda Antwi,Volta,P009,Performance Laptop,Computers,1,10364.47,Akua
+O01197,2025-02-28,C0170,Akosua Nyarko,Greater Accra,P015,Bluetooth Speaker,Audio,2,434.39,Esther
+O01198,2026-06-15,C0081,Samuel Osei,Central,P013,Desk Lamp,Furniture,1,175.66,Esther
+O01199,2025-01-03,C0091,Adwoa Antwi,Eastern,P011,Office Chair,Furniture,1,1345.37,Gifty
+O01200,2025-05-18,C0114,Efua Adjei,Central,P005,Webcam,Accessories,1,249.64,Gifty
+O00196,2025-07-25,C0096,Mabel Tetteh,Ashanti,P008,Office Laptop,Computers,1,6466.86,Gifty
+O00155,2025-06-29,C0097,Yaw Owusu,Greater Accra,P010,Mini PC,Computers,3,4844.44,Henry
+O00037,2026-03-20,C0176,Linda Adjei,Greater Accra,P004,Laptop Stand,Accessories,1,160.87,David
+O00022,2026-03-26,C0017,Priscilla Tetteh,Greater Accra,P018,Wi-Fi Router,Networking,2,494.79,Esther
+O00277,2025-02-01,C0116,Yaw Antwi,Greater Accra,P005,Webcam,Accessories,1,233.0,Esther
+O00006,2026-04-30,C0155,Daniel Addo,Ashanti,P014,Headset,Audio,1,310.92,Gifty
+O00007,2026-02-10,C0108,Kofi Boateng,Greater Accra,P001,Wireless Mouse,Accessories,2,95.13,Gifty
+O00065,2025-03-16,C0005,Daniel Addo,Northern,P013,Desk Lamp,Furniture,2,184.3,David
+O00188,2025-11-30,C0054,Isaac Asare,Central,P017,Flash Drive 128GB,Storage,4,142.9,David
+O00211,2025-07-31,C0067,Esi Quaye,Ashanti,P008,Office Laptop,Computers,1,5846.44,Felix
+O00257,2025-10-04,C0041,Mabel Antwi,Volta,P007,27-inch Monitor,Displays,5,2360.91,Esther
+O00011,2025-04-20,C0026,Michael Boateng,Greater Accra,P008,Office Laptop,Computers,2,5828.85,Akua
+O00085,2026-02-17,C0044,Linda Addo,western,P018,Wi-Fi Router,Networking,2,493.78,Henry
+O00045,2025-02-19,C0065,Linda Nyarko,Western,P013,Desk Lamp,Furniture,5,191.81,Bernard
