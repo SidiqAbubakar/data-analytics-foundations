@@ -39,7 +39,7 @@ performance laptops.
 
 -- 3. What is monthly revenue by category?
 SELECT 
-    EXTRACT(MONTH FROM o.order_date) AS order_month,
+    DATE_TRUNC('month', o.order_date) AS order_month,
     p.category,
     SUM(o.quantity * o.unit_price) AS revenue
 FROM orders o
