@@ -28,11 +28,11 @@ select *
 from orders;
 
 -- 1. How many orders are in the data?  
-select sum(quantity) AS total_orders
+select COUNT(order_id) AS total_orders
 from orders;
 /*
 Answer:
-The total number of orders processed by the company within the period of study is  2,272.
+The total number of orders processed by the company within the period of study is  1200.
 */
 
 
@@ -58,22 +58,25 @@ Although the company recorded 2,272 orders in general, the unique customer base 
 
 
 -- 4. What is the average order value?    	Ans: 1.89 ~ 2
-SELECT ROUND(AVG(quantity),2)
+SELECT ROUND(SUM(quantity * unit_price) / COUNT(order_id),2)
 FROM orders;
 --Answer:
 /*
-The average order value stood at 1.89. This indicates approximately 2 orders per transaction.
+The average order value stood at 3942.75. This indicates approximately 3943.00 cedis per transaction.
 */
 
 
 
 -- 5. Which five products generate the most revenue?
 SELECT 
-product_id,
-SUM(quantity * unit_price) AS Revenue 
-FROM orders
-GROUP BY product_id
-ORDER BY SUM(quantity * unit_price) DESC
+p.product_id,
+p.product_name,
+SUM(o.quantity * o.unit_price) AS Revenue 
+FROM products p
+INNER JOIN orders o
+ON p.product_id = o.product_id
+GROUP BY p.product_id
+ORDER BY SUM(o.quantity * o.unit_price) DESC
 LIMIT 5;
 -- Answer
 /*
@@ -115,14 +118,16 @@ with revenue around 89k GHS.
 
 -- 8. How does revenue change by month?
 SELECT 
-EXTRACT (MONTH FROM order_date) AS order_month,
+DATE_TRUNC('month', order_date) AS order_month,
 SUM(quantity * unit_price) AS Revenue
 FROM orders
 GROUP BY order_month
 ORDER BY order_month ASC;
 -- Answer
 /*
-Revenue increases in the first quater, peaks in the third quater before dropping in the last quater.
+The first year(2025) saw a non continuous trend in revenue with ups and downs until mid year where it saw a study 
+growth and peaked at 368,458.32 cedis. The second year(2026) performed poorly compared to the previpus year, although
+the doesn't contain revenue for last four month of 2026. The peak revenue for 2026 was 270,896.56.
 */
 
 -- 9. Which salesperson generates the most revenue?
@@ -167,7 +172,7 @@ Computers, Displays, and Furniture were the only categories with revenues above 
 
 
 -- 12. What additional business question can you answer from the data?
-SELECT c.customer_name, o.quantity, SUM(o.quantity * o.unit_price) AS revenue
+SELECT c.customer_name,SUM(o.quantity), SUM(o.quantity * o.unit_price) AS revenue
 FROM customers c
 INNER JOIN orders o
 ON c.customer_id = o.customer_id
@@ -175,7 +180,7 @@ GROUP BY c.customer_name, o.quantity
 ORDER BY revenue DESC;
 --Answer 
 /*
-The query above answers the question on whether customer spending is the directly proportional to the quantity of
+The query above answers the question on whether customer spending is directly proportional to the quantity of
 items purchased.
 That is not really the case because, both Esi Owusu and Priscilla Owusa bought 5 quantity items but at
 varying costs.
