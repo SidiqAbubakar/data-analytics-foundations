@@ -1,0 +1,21 @@
+Model Explanation: 
+The data contains three datasets each termed as table. The tables are: 
+I) products: The products table contains information about the product. The information includes productId and product name.
+II) customers: The customer table has information about the customer such as customerID and customer name.
+III) orders: This table has information regarding sales. It includes order date, customerID, productID, salepeserson etc.
+
+The model explains how the three tables talk to each other. The orders table contains two foreign keys enabling the establishment
+of single source of truth when its queried. The orders table is termed as fact table whilst the others are termed dimension tables.
+
+
+DIFFERENCE BETWEEN POWER QUERY AND DAX
+Power query is a data preparing tool. It's the first to receive the data in PowerBi. It fixes tables before they get to be used.
+Identify and fixing missing values, change datatypes, dropping of rows or columns and general data cleaning activities happen in 
+power query.
+
+Data Analysis Expression (DAX) is an analytical tool that does the math on the cleaned data. It performs calculations such as finding
+totals and averages. It perform timeseries calculations such as finding Year-to-Date (YTD) and annual calculations.
+
+In summary: 
+Power query = cleans the data 
+DAX = Performs calculations on the data.
