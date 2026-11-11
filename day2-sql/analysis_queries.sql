@@ -38,7 +38,7 @@ The total number of orders processed by the company within the period of study i
 
 
 -- 2. What is total revenue?  		Ans: 4,731,304.02
-SELECT SUM(quantity * unit_price) AS "Total_Revenue"
+SELECT SUM(quantity * unit_price) AS total_revenue
 FROM orders;
 /*
 A total revenue of 4,731,304.02 GHS was generated over the transactional period.
