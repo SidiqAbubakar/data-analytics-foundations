@@ -92,7 +92,7 @@ ON c.customer_id = o.customer_id
 GROUP BY c.customer_id, c.customer_name
 ORDER BY total_orders_placed DESC;
 /* 
-The total orders placed by individual customers ranges from 9 to 14, only one customer had more than 14 orders.
+The total orders placed by individual customers ranges from 1 to 15, only one customer had more than 14 orders.
 */
 
 
@@ -131,11 +131,15 @@ SELECT
     salesperson,
     COUNT(order_id) AS deals_closed,
     SUM(quantity * unit_price) AS total_sales_volume,
-    AVG(quantity * unit_price) AS average_deal_value
+    ROUND(AVG(quantity * unit_price),2) AS average_deal_value
 FROM orders
 GROUP BY salesperson
 ORDER BY average_deal_value DESC;
 /* 
-The query identifies tital orders processed by each salesperson, as well as volume generated from it.
+The query identifies total orders processed by each salesperson, as well as 
+volume generated from it. Average deal value looks good for each saleperson 
+considering the number of deals closed and revenue generated.
+Henry closed the least number (140) of deals but made the highest average deal
+value (4817.46)
 */
 
