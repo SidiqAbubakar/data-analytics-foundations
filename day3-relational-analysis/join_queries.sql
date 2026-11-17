@@ -77,7 +77,7 @@ INNER JOIN products p ON o.product_id = p.product_id
 GROUP BY p.category
 ORDER BY revenue DESC;
 /*  
-Computers, Displays and Funiture are categories which contribute the most in revenue.
+Computers, Displays and Furniture are categories which contribute the most in revenue.
 */
 
 
